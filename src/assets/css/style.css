@@ -1,0 +1,487 @@
+:root {
+  --jumbotron-padding-y: 3rem;
+}
+
+.jumbotron {
+  padding-top: var(--jumbotron-padding-y);
+  padding-bottom: var(--jumbotron-padding-y);
+  margin-bottom: 0;
+  background-color: #fff;
+}
+
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: calc(var(--jumbotron-padding-y) * 2);
+    padding-bottom: calc(var(--jumbotron-padding-y) * 2);
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-family: 'Varela Round' !important;
+  font-weight: 300;
+  color: #303030 !important;
+  font-size: 28px !important;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+.full-banner {
+  background-image: url('../images/banner.png');
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 1;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.banner-height {
+  min-height: 53vw;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0;
+  /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+
+.featurette-heading {
+  font-family: 'Varela Round' !important;
+  color: #303030;
+  font-weight: 600;
+  line-height: 1;
+  font-size: 28px !important;
+}
+
+.featurette-heading-subtitle {
+  font-family: 'Montserrat' !important;
+  font-weight: 400;
+  font-size: 16px !important;
+  color: #303030;
+  margin-top: 20px;
+}
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: 0.25rem;
+}
+
+.custom-navbar {
+  font-family: 'Varela Round';
+  background-color: #303030 !important;
+  height: 95.28px;
+  color: #fff;
+}
+
+.custom-navbar a {
+  font-size: 20px;
+  color: #fff !important;
+}
+
+.custom-navbar a:hover {
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.btn-zum-editor {
+  background-color: #ffad1b;
+  border-color: #ffad1b;
+  width: 180.66px;
+  border-radius: 10px;
+  transition: transform 0.2s;
+  font-family: 'Montserrat' !important;
+}
+
+.btn-zum-editor:hover {
+  background-color: #ffad1b;
+  border: none !important;
+  outline: none !important;
+  transform: scale(1.1);
+}
+
+.btn-zum-editor:active {
+  background-color: #ffad1b !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.btn-zum-editor:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.heading-title {
+  color: #ffad1b;
+  font-family: 'Montserrat';
+  font-weight: 400;
+}
+
+.heading-title-default {
+  font-family: 'Varela Round';
+  font-size: 40px;
+  color: #303030;
+  font-weight: 600;
+}
+
+.features {
+  font-family: 'Montserrat';
+  color: #303030;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.features-details {
+  font-family: 'Montserrat';
+  color: #303030;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.btn-features {
+  font-family: 'Varela Round';
+  font-size: 20px;
+  font-weight: 500;
+  border-radius: 10px;
+  box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.5) !important;
+  color: #fff;
+  background-color: #ffad1b;
+  border-color: #ffad1b;
+  width: 402.63px;
+  height: 50px;
+}
+
+.btn-features:hover {
+  background-color: #ffad1b;
+  border: none !important;
+}
+
+.btn-features:active {
+  background-color: #ffad1b !important;
+  outline: none !important;
+}
+
+.btn-features:focus {
+  outline: none !important;
+}
+
+.custom-middle-section {
+  background-color: #ffeed8 !important;
+}
+
+.middle-section-title {
+  font-family: 'Montserrat';
+  font-size: 28px;
+  text-align: center;
+}
+
+.custom-image-container {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.card-image {
+  background-color: transparent;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.card-image-text {
+  font-family: 'Varela Round' !important;
+  color: #303030;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: center;
+}
+
+.custom-top-bottom-margin {
+  margin-top: 120px;
+}
+
+.custom-margin-1 {
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+
+.card-title3 {
+  font-family: 'Varela Round' !important;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffad1b;
+  margin-bottom: 40px;
+}
+
+.btn-feature {
+  width: 387.83px;
+  height: 48px;
+  background-color: #ffad1b !important;
+  outline: none !important;
+  border: none !important;
+  border-radius: 10px;
+  box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.5) !important;
+  font-family: 'Varela Round' !important;
+  font-size: 18px;
+  color: #fff;
+}
+
+.price-img {
+  max-width: 768px;
+  max-height: 1075px;
+  width: 268.59px;
+  height: 368.03px;
+}
+
+.price-img-active {
+  width: 360.59px;
+  height: 496.83px;
+}
+
+.price-title {
+  font-family: 'Varela Round' !important;
+  color: #303030;
+  line-height: 1.2em;
+  font-weight: 600;
+  font-size: 1.75rem !important;
+  text-align: center;
+}
+
+.price {
+  font-family: 'Varela Round' !important;
+  color: #303030;
+  line-height: 1.2em;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;
+}
+
+.price-desc {
+  font-family: 'Montserrat';
+  color: #303030;
+  align-self: center;
+  font-weight: 400;
+}
+
+.price-desc .fa {
+  color: #ffad1b;
+}
+
+.card-title-bottom {
+  font-family: 'Varela Round' !important;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1;
+  color: #000;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.cd-author-info span p {
+  display: inline-block;
+  font-size: 14px;
+  padding-left: 0;
+}
+
+.cd-author-info span p a {
+  color: rgba(126, 129, 136, 1);
+}
+
+.cd-author img,
+.cd-author .cd-author-info {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.cd-author img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.cd-author .cd-author-info {
+  text-align: left;
+  line-height: 1;
+}
+
+.cd-author .cd-author-info li:first-child {
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.cd-author .cd-author-info li:last-child {
+  font-size: 12px;
+  color: #6b6b70;
+}
+
+ul.cd-author-info {
+  list-style: none;
+  padding: 0;
+}
+
+ul.cd-author-info li span:before {
+  font-family: 'FontAwesome';
+  content: '\f099';
+  font-size: 24px;
+  display: inline-block;
+  position: absolute;
+  margin-top: 2px;
+  font-style: normal;
+  margin-left: -30px;
+}
+
+ul.cd-author-info li span {
+  font-size: 14px;
+  padding-left: 30px;
+  line-height: 24px;
+  font-family: 'Open Sans', sans-serif;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.testimonial .fa {
+  color: #ffad1b;
+  font-size: 48px;
+  margin-top: 80px;
+}
+
+.testimonial .testimonial-desc {
+  color: #303030;
+  font-family: 'Montserrat' !important;
+  font-size: 24px;
+  font-style: italic;
+  margin-top: 20px;
+}
+.testimonial .testimonial-person {
+  text-align: left !important;
+}
+.testimonial .testimonial-person .name {
+  font-family: 'Varela Round' !important;
+  color: #ffad1b;
+  font-size: 16px;
+  line-height: 1.5rem;
+  font-weight: 600;
+}
+.testimonial .testimonial-person .writer {
+  font-family: 'Varela Round' !important;
+  color: #54595f;
+  font-size: 16px;
+  line-height: 1.5rem;
+  font-weight: 600;
+}
+.testimonial img {
+  width: 60px;
+  width: 60px;
+}
+
+.marketing .fa {
+  color: #ffad1b;
+  font-size: 30px;
+}
+
+.service-title {
+  font-family: 'Varela Round' !important;
+  font-size: 20px !important;
+  font-weight: 600;
+  color: #303030 !important;
+}
+
+.service-subtitle {
+  font-family: 'Montserrat' !important;
+  font-size: 20px !important;
+  font-weight: 400;
+  color: #303030 !important;
+  font-size: 16px !important;
+}
+
+.footer-upper-container {
+  background-color: #303030;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.container-footer-lower {
+  background-color: #ffeed8 !important;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-bottom: -47px;
+}
+
+ul.list-horizontal {
+  list-style: none;
+}
+
+ul.list-horizontal li {
+  padding: 20px;
+  display: inline;
+}
+
+ul.list-horizontal li a {
+  color: #fff;
+  text-decoration: none;
+  font-family: 'Varela Round';
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.footer-copyright {
+  color: #fff;
+  font-family: 'Varela Round';
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.6em;
+}
+
+.payment-title {
+  font-family: 'Varela Round';
+  font-size: 16px;
+  color: #303030;
+}
+
+@media only screen and (min-width: 768px) {
+  .cd-author img {
+    width: 58px;
+    height: 58px;
+  }
+  .cd-author .cd-author-info {
+    line-height: 1.4;
+  }
+  .cd-author .cd-author-info li:first-child {
+    font-size: 18px;
+  }
+}
+
+video {
+  max-width: 100%;
+  width: 100%;
+  margin: 0;
+  line-height: 1;
+  border: none;
+}
