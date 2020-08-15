@@ -5,19 +5,19 @@
         <div class="col-12">
           <ul class="list-horizontal">
             <li>
-              <a href="#!">{{$t("footer.home")}}</a>
+              <a :href="'/'+$route.params.lang">{{$t("footer.home")}}</a>
             </li>
             <li>
-              <a href="#!">{{$t("footer.imprint")}}</a>
+              <a href="https://www.sternenhimmel-poster.de/impressum/">{{$t("footer.imprint")}}</a>
             </li>
             <li>
-              <a href="#!">{{$t("footer.terms_and_conditions")}}</a>
+              <a href="https://www.sternenhimmel-poster.de/agb/">{{$t("footer.terms_and_conditions")}}</a>
             </li>
             <li>
-              <a href="#!">{{$t("footer.privacy_policy")}}</a>
+              <a href="https://www.sternenhimmel-poster.de/datenschutzerklaerung/">{{$t("footer.privacy_policy")}}</a>
             </li>
             <li>
-              <a href="#!" v-html="$t('footer.shipping_payment')"></a>
+              <a href="https://www.sternenhimmel-poster.de/versand/" v-html="$t('footer.shipping_payment')"></a>
             </li>
           </ul>
         </div>

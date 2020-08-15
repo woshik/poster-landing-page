@@ -13,7 +13,9 @@
             <div class="writer">{{$t("testimonial.one.occupation")}}</div>
           </div>
         </div>
-        <button class="btn btn-design-poster">{{$t("testimonial.button_text")}}</button>
+        <button
+          class="btn btn-design-poster"
+        >{{$t("testimonial.button_text",{kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})}}</button>
       </div>
     </div>
   </section>

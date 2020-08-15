@@ -5,7 +5,9 @@
         <h2 class="featurette-heading">{{$t("poster.one.heading")}}</h2>
         <p class="featurette-heading-subtitle">{{$t("poster.one.paragraph_one")}}</p>
         <p>{{$t("poster.one.paragraph_two")}}</p>
-        <button class="btn btn-feature">{{$t("poster.one.button_text")}}</button>
+        <button
+          class="btn btn-feature"
+        >{{$t("poster.one.button_text", {kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})}}</button>
       </div>
       <div class="col-md-5 order-md-2 order-sm-1">
         <video
@@ -24,7 +26,9 @@
         <h2 class="featurette-heading">{{$t("poster.two.heading")}}</h2>
         <p class="featurette-heading-subtitle">{{$t("poster.two.paragraph_one")}}</p>
         <p>{{$t("poster.two.paragraph_two")}}</p>
-        <button class="btn btn-feature">{{$t("poster.two.button_text")}}</button>
+        <button
+          class="btn btn-feature"
+        >{{$t("poster.two.button_text", {kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})}}</button>
       </div>
       <div class="col-md-5 order-md-1">
         <img class="featurette-image img-fluid mx-auto" :src="poster" alt="poster" />

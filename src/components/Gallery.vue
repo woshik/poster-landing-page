@@ -2,7 +2,9 @@
   <section class="text-center py-5" id="inspiration">
     <div class="container">
       <h1 class="jumbotron-heading">{{$t("gallery.heading")}}</h1>
-      <p class="lead text-muted">{{$t("gallery.sub_heading")}}</p>
+      <p
+        class="lead text-muted"
+      >{{$t("gallery.sub_heading",{kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})}}</p>
       <div class="album py-5">
         <div class="container">
           <div class="row">
@@ -14,7 +16,9 @@
             </div>
           </div>
           <div class="row mb-md-5">
-            <poster-button :button-text="$t('gallery.button_text')" />
+            <poster-button
+              :button-text="$t('gallery.button_text', {kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})"
+            />
           </div>
         </div>
       </div>

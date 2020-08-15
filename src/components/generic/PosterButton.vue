@@ -1,6 +1,9 @@
 <template>
   <div class="col-md-12 text-center">
-    <button class="btn btn-design-poster">{{buttonText}}</button>
+    <a
+      href="https://editor.sternenhimmel-poster.de/new/"
+      class="btn btn-design-poster"
+    >{{buttonText}}</a>
   </div>
 </template>
 

@@ -1,12 +1,3 @@
 <template>
-  <home />
+  <router-view />
 </template>
-
-<script>
-export default {
-  name: "App",
-  components: {
-    Home: () => import("./screen/Home"),
-  },
-};
-</script>

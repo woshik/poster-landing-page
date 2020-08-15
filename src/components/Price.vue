@@ -38,7 +38,9 @@
           </div>
           <!-- pricing desc -->
           <div class="row">
-            <poster-button :button-text="$t('price.button_text')" />
+            <poster-button
+              :button-text="$t('price.button_text', {kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})"
+            />
           </div>
         </div>
       </div>

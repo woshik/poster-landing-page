@@ -21,7 +21,9 @@
             </div>
           </div>
           <div class="row">
-            <poster-button :button-text="$t('our_work.button_text')" />
+            <poster-button
+              :button-text="$t('our_work.button_text',{kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})"
+            />
           </div>
         </div>
       </div>
