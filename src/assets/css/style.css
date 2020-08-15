@@ -1,36 +1,7 @@
-:root {
-  --jumbotron-padding-y: 3rem;
+html,
+body {
+  overflow-x: hidden;
 }
-
-.jumbotron {
-  padding-top: var(--jumbotron-padding-y);
-  padding-bottom: var(--jumbotron-padding-y);
-  margin-bottom: 0;
-  background-color: #fff;
-}
-
-@media (min-width: 768px) {
-  .jumbotron {
-    padding-top: calc(var(--jumbotron-padding-y) * 2);
-    padding-bottom: calc(var(--jumbotron-padding-y) * 2);
-  }
-}
-
-.jumbotron p:last-child {
-  margin-bottom: 0;
-}
-
-.jumbotron-heading {
-  font-family: 'Varela Round' !important;
-  font-weight: 300;
-  color: #303030 !important;
-  font-size: 28px !important;
-}
-
-.jumbotron .container {
-  max-width: 40rem;
-}
-
 .full-banner {
   background-image: url('../images/banner.png');
   background-position: top center;
@@ -42,6 +13,12 @@
 
 .banner-height {
   min-height: 53vw;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-toggler {
+  outline: 0 !important;
 }
 
 /* Featurettes
@@ -79,11 +56,11 @@
   }
 }
 
-@media (min-width: 62em) {
+/*@media (min-width: 62em) {
   .featurette-heading {
     margin-top: 7rem;
   }
-}
+}*/
 
 footer {
   padding-top: 3rem;
@@ -95,9 +72,9 @@ footer p {
 }
 
 .custom-navbar {
-  font-family: 'Varela Round';
+  font-family: 'Varela Round' !important;
   background-color: #303030 !important;
-  height: 95.28px;
+  min-height: 115px;
   color: #fff;
 }
 
@@ -112,12 +89,16 @@ footer p {
 }
 
 .btn-zum-editor {
-  background-color: #ffad1b;
-  border-color: #ffad1b;
-  width: 180.66px;
-  border-radius: 10px;
+  background-color: #ffad1b !important;
+  border-color: #ffad1b !important;
+  width: 155px;
+  border-radius: 10px !important;
   transition: transform 0.2s;
+  font-size: 16px !important;
   font-family: 'Montserrat' !important;
+  box-shadow: none !important;
+  text-align: center;
+  padding-top: 10px !important;
 }
 
 .btn-zum-editor:hover {
@@ -166,22 +147,21 @@ footer p {
 }
 
 .btn-features {
-  font-family: 'Varela Round';
-  font-size: 20px;
-  font-weight: 500;
-  border-radius: 10px;
-  box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.5) !important;
-  color: #fff;
-  background-color: #ffad1b;
-  border-color: #ffad1b;
-  width: 402.63px;
-  height: 50px;
+  font-family: 'Varela Round' !important;
+  font-size: 18px !important;
+  border-radius: 10px !important;
+  box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.5);
+  color: #fff !important;
+  background-color: #ffad1b !important;
+  border-color: #ffad1b !important;
+  width: auto;
+  padding: 8px 25px !important;
 }
 
-.btn-features:hover {
+/* .btn-features:hover {
   background-color: #ffad1b;
   border: none !important;
-}
+} */
 
 .btn-features:active {
   background-color: #ffad1b !important;
@@ -200,6 +180,7 @@ footer p {
   font-family: 'Montserrat';
   font-size: 28px;
   text-align: center;
+  font-weight: 600;
 }
 
 .custom-image-container {
@@ -226,7 +207,7 @@ footer p {
 }
 
 .custom-margin-1 {
-  margin-top: 100px;
+  margin-top: 70px;
   margin-bottom: 80px;
 }
 
@@ -366,7 +347,11 @@ ul.cd-author-info li span {
   font-weight: 300;
 }
 
-.testimonial .fa {
+.custom-icon svg {
+  color: #ffad1b;
+}
+
+.testimonial svg {
   color: #ffad1b;
   font-size: 48px;
   margin-top: 80px;
@@ -401,7 +386,7 @@ ul.cd-author-info li span {
   width: 60px;
 }
 
-.marketing .fa {
+.marketing svg {
   color: #ffad1b;
   font-size: 30px;
 }
@@ -465,6 +450,12 @@ ul.list-horizontal li a {
   color: #303030;
 }
 
+.card-body {
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 10px 0;
+}
+
 @media only screen and (min-width: 768px) {
   .cd-author img {
     width: 58px;
@@ -484,4 +475,172 @@ video {
   margin: 0;
   line-height: 1;
   border: none;
+}
+
+.testimonial {
+  padding-top: 100px;
+}
+
+.btn-design-poster {
+  margin-top: 30px;
+  background-color: #ffad1b !important;
+  outline: none !important;
+  border: none !important;
+  border-radius: 10px !important;
+  box-shadow: 1px 2px 3px 0px rgba(0, 0, 0, 0.5) !important;
+  font-family: 'Varela Round' !important;
+  font-size: 18px !important;
+  color: #fff !important;
+  font-weight: 500 !important;
+  width: auto;
+  padding: 10px 30px !important;
+}
+.btn-design-poster:hover {
+  color: #fff;
+}
+.verewige {
+  padding-top: 100px;
+}
+.banner-text-off {
+  display: none !important;
+}
+.card {
+  background-color: transparent !important;
+  border-radius: 0 !important;
+}
+.bg-orange {
+  background-color: #ffeed8;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1279.98px) {
+  .container {
+    max-width: 96%;
+  }
+  .price-img-active {
+    max-width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 991.98px) {
+  .container {
+    max-width: 96%;
+  }
+  .price-img-active {
+    max-width: 100%;
+    width: auto;
+    height: auto;
+  }
+  .heading-title-default {
+    font-size: 26px;
+  }
+  .btn-features {
+    font-size: 16px !important;
+  }
+  .card-title3 {
+    font-size: 18px;
+  }
+  .price-img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+}
+
+@media only screen and (max-width: 767.98px) {
+  .navbar-brand {
+    width: 75%;
+  }
+  nav img {
+    max-width: 100%;
+  }
+  .container {
+    max-width: 96%;
+  }
+  .banner-text {
+    display: none !important;
+  }
+  .full-banner {
+    background-image: url('../images/mobile-banner.png');
+  }
+  .banner-height {
+    min-height: 70vw;
+  }
+  .banner-text-off {
+    display: block !important;
+    padding: 50px 2%;
+  }
+  .custom-navbar {
+    min-height: auto;
+  }
+  .btn-features {
+    font-size: 17px !important;
+    display: block !important;
+  }
+  .heading-title-default {
+    font-size: 27px;
+  }
+  .custom-margin-1 {
+    margin-top: 0;
+    margin-bottom: 40px;
+  }
+  .middle-section-title {
+    font-size: 24px;
+  }
+  .price-img-active {
+    width: auto;
+    height: auto;
+    max-width: 100%;
+  }
+  .container-footer-lower img {
+    max-width: 100%;
+  }
+  .page-footer ul {
+    margin: 0;
+    padding: 0;
+  }
+  ul.list-horizontal li {
+    padding: 3px 0;
+    display: block;
+  }
+  .testimonial {
+    padding-top: 50px;
+  }
+  .testimonial svg {
+    margin-top: 30px;
+  }
+  .testimonial .testimonial-desc {
+    font-size: 20px;
+  }
+  .featurette-heading {
+    line-height: 30px;
+  }
+  .price-img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+  }
+  h1.jumbotron-heading {
+    font-size: 28px;
+  }
+
+  .price-title {
+    text-align: left;
+  }
+
+  .price {
+    text-align: left;
+  }
+
+  .price-slot {
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    border-bottom: 1px #ffad1b solid;
+  }
+
+  .price-slot:last-child {
+    border: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
 }

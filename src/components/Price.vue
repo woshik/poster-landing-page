@@ -2,99 +2,43 @@
   <section class="album py-5 bg-light custom-middle-section">
     <div class="container-fluid">
       <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-        <h1 class="middle-section-title">Produkte und Preise</h1>
+        <h1 class="middle-section-title">{{$t("price.heading")}}</h1>
       </div>
       <div class="album py-5">
         <div class="container">
-          <div class="row text-center align-self-center align-self-center align-items-center">
-            <div class="col-md-4">
-              <img class="price-img" src="../assets/images/price-1.png" alt="price" />
-            </div>
-            <div class="col-md-4">
-              <img class="price-img-active" src="../assets/images/price-2.png" alt="price" />
-            </div>
-            <div class="col-md-4">
-              <img class="price-img" src="../assets/images/price-3.png" alt="price" />
+          <div class="row text-center align-items-center">
+            <div v-for="(item, i) in priceList" :key="item.id" class="col-4">
+              <img
+                :class="[i === 1 ? 'price-img-active' : 'price-img']"
+                :src="item.image"
+                alt="price"
+              />
             </div>
           </div>
           <!-- pricing desc -->
-          <div class="row align-self-center align-self-center align-items-center mt-5">
+          <div class="row pt-5 pb-5">
             <!-- 1st cloumn -->
-            <div class="col-md-4">
+            <div v-for="item in priceList" :key="item.id" class="col-md-4 price-slot">
               <div class="card card-image">
                 <div class="card-body">
-                  <div class="card-title price-title">Digital-Druckdatei</div>
-                  <div class="price">ab 19 €</div>
+                  <div class="card-title price-title">{{item.title}}</div>
+                  <div class="price">{{item.price}}</div>
                   <div class="price-desc mt-4">
-                    <div class="d-flex flex-row">
-                      <div>
-                        <i class="fa fa-check-circle mr-2" area-hidden="true"></i>
+                    <div v-for="point in item.points" :key="point" class="d-flex flex-row">
+                      <div class="custom-icon">
+                        <font-awesome-icon icon="check-circle" class="mr-2" />
                       </div>
-                      <div>Hochauflösende Druckdatei zum selber Drucken</div>
-                    </div>
-                    <div class="d-flex flex-row">
-                      <div>
-                        <i class="fa fa-check-circle mr-2" area-hidden="true"></i>
-                      </div>
-                      <div>Hochauflösende Druckdatei zum selber Drucken</div>
+                      <div>{{point}}</div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
             <!-- 1st column -->
-            <!-- 2nd cloumn -->
-            <div class="col-md-4">
-              <div class="card card-image">
-                <div class="card-body">
-                  <div class="card-title price-title">Digital-Druckdatei</div>
-                  <div class="price">ab 19 €</div>
-                  <div class="price-desc mt-4">
-                    <div class="d-flex flex-row">
-                      <div>
-                        <i class="fa fa-check-circle mr-2" area-hidden="true"></i>
-                      </div>
-                      <div>Hochauflösende Druckdatei zum selber Drucken</div>
-                    </div>
-                    <div class="d-flex flex-row">
-                      <div>
-                        <i class="fa fa-check-circle mr-2" area-hidden="true"></i>
-                      </div>
-                      <div>Hochauflösende Druckdatei zum selber Drucken</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- 2nd column -->
-            <!-- 3rd cloumn -->
-            <div class="col-md-4">
-              <div class="card card-image">
-                <div class="card-body">
-                  <div class="card-title price-title">Digital-Druckdatei</div>
-                  <div class="price">ab 19 €</div>
-                  <div class="price-desc mt-4">
-                    <div class="d-flex flex-row">
-                      <div>
-                        <i class="fa fa-check-circle mr-2" area-hidden="true"></i>
-                      </div>
-                      <div>Hochauflösende Druckdatei zum selber Drucken</div>
-                    </div>
-                    <div class="d-flex flex-row">
-                      <div>
-                        <i class="fa fa-check-circle mr-2" area-hidden="true"></i>
-                      </div>
-                      <div>Hochauflösende Druckdatei zum selber Drucken</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- 3rd column -->
           </div>
           <!-- pricing desc -->
           <div class="row">
-            <PosterButton />
+            <poster-button :button-text="$t('price.button_text')" />
           </div>
         </div>
       </div>
@@ -104,10 +48,52 @@
 
 <script>
 import PosterButton from "./generic/PosterButton";
+import pricePoster1 from "../assets/images/price-1.png";
+import pricePoster2 from "../assets/images/price-2.png";
+import pricePoster3 from "../assets/images/price-3.png";
+
 export default {
   name: "Price",
   components: {
     PosterButton,
+  },
+  data() {
+    return {
+      priceList: [
+        {
+          id: 1,
+          title: this.$t("price.list.item_one.heading"),
+          image: pricePoster1,
+          price: this.$t("price.list.item_one.price"),
+          points: [
+            this.$t("price.list.item_one.sub_list.one"),
+            this.$t("price.list.item_one.sub_list.two"),
+          ],
+        },
+        {
+          id: 2,
+          title: this.$t("price.list.item_two.heading"),
+          image: pricePoster2,
+          price: this.$t("price.list.item_two.price"),
+          points: [
+            this.$t("price.list.item_two.sub_list.one"),
+            this.$t("price.list.item_two.sub_list.two"),
+            this.$t("price.list.item_two.sub_list.three"),
+          ],
+        },
+        {
+          id: 3,
+          title: this.$t("price.list.item_three.heading"),
+          image: pricePoster3,
+          price: this.$t("price.list.item_three.price"),
+          points: [
+            this.$t("price.list.item_three.sub_list.one"),
+            this.$t("price.list.item_three.sub_list.two"),
+            this.$t("price.list.item_three.sub_list.three"),
+          ],
+        },
+      ],
+    };
   },
 };
 </script>

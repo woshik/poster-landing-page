@@ -1,10 +1,8 @@
 <template>
-  <section class="text-center">
+  <section class="text-center" id="our-works" style="padding: 100px 0 50px 0">
     <div class="container-fluid">
-      <h1 class="jumbotron-heading custom-top-bottom-margin">Wie es funktioniert</h1>
-      <p
-        class="lead text-muted card-image-text"
-      >Erstelle dein Sternhimmel Poster in nur drei einfachen Schritten.</p>
+      <h1 class="jumbotron-heading">{{$t("our_work.heading")}}</h1>
+      <p class="lead text-muted card-image-text">{{$t("our_work.sub_heading")}}</p>
       <div class="album py-5">
         <div class="container">
           <div class="row">
@@ -23,7 +21,7 @@
             </div>
           </div>
           <div class="row">
-            <PosterButton />
+            <poster-button :button-text="$t('our_work.button_text')" />
           </div>
         </div>
       </div>
@@ -46,19 +44,19 @@ export default {
           id: 1,
           video:
             "https://sternenhimmel-poster.gumlet.com/wp-content/uploads/2020/05/Editor-1.1.1.mov",
-          title: "1. Ort und Datum",
+          title: this.$t("our_work.list.one"),
         },
         {
           id: 2,
           video:
             "https://sternenhimmel-poster.gumlet.com/wp-content/uploads/2020/05/Editor-1.2.mov",
-          title: "2. Persönliche Widmung",
+          title: this.$t("our_work.list.two"),
         },
         {
           id: 3,
           video:
             "https://sternenhimmel-poster.gumlet.com/wp-content/uploads/2020/05/Editor-1.3.mov",
-          title: "3. Dein Design",
+          title: this.$t("our_work.list.three"),
         },
       ],
     };

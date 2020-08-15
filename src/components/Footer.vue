@@ -5,40 +5,34 @@
         <div class="col-12">
           <ul class="list-horizontal">
             <li>
-              <a href="#!">Home</a>
+              <a href="#!">{{$t("footer.home")}}</a>
             </li>
             <li>
-              <a href="#!">Impressum</a>
+              <a href="#!">{{$t("footer.imprint")}}</a>
             </li>
             <li>
-              <a href="#!">AGB</a>
+              <a href="#!">{{$t("footer.terms_and_conditions")}}</a>
             </li>
             <li>
-              <a href="#!">Datenschutz</a>
+              <a href="#!">{{$t("footer.privacy_policy")}}</a>
             </li>
             <li>
-              <a href="#!">Versand- und Zahlungsinformationen</a>
-            </li>
-            <li>
-              <a href="#!">Widerruf</a>
+              <a href="#!" v-html="$t('footer.shipping_payment')"></a>
             </li>
           </ul>
         </div>
         <div class="col-md-6 mx-auto">
-          <div class="footer-copyright">
-            © 2020 Sternenhimmel Poster by Momentgold - Powered by Shopify
-            Alle Preise inkl. MwSt. und zzgl. Versandkosten
-          </div>
+          <div class="footer-copyright" v-html="$t('footer.text')" />
         </div>
       </div>
     </div>
     <div class="container-fluid container-footer-lower">
       <div class="row text-center">
         <div class="col-md-12">
-          <div class="payment-title">Sichere Zahlung mit</div>
+          <div class="payment-title">{{$t("footer.payment")}}</div>
         </div>
         <div class="col-md-12 mt-3">
-          <img src="../assets/images/payment.png" alt />
+          <img :src="payment" alt="payment" />
         </div>
       </div>
     </div>
@@ -46,7 +40,13 @@
 </template>
 
 <script>
+import payment from "../assets/images/payment.png";
 export default {
   name: "Footer",
+  data() {
+    return {
+      payment,
+    };
+  },
 };
 </script>

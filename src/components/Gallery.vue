@@ -1,24 +1,20 @@
 <template>
-  <section class="text-center py-5">
+  <section class="text-center py-5" id="inspiration">
     <div class="container">
-      <h1 class="jumbotron-heading">Das außergewöhnliche Geschenk für jeden Anlass</h1>
-      <p class="lead text-muted">
-        Für jeden Anlass ist das Sternenhimmel Poster das perfekte Geschenk. Der
-        personalisierte Sternenhimmel verewigt dabei besondere Momente und Erinnerungen. Es macht nicht nur dir
-        Freude, sondern auch deinen Liebsten mit denen du diese Momente teilst.
-      </p>
+      <h1 class="jumbotron-heading">{{$t("gallery.heading")}}</h1>
+      <p class="lead text-muted">{{$t("gallery.sub_heading")}}</p>
       <div class="album py-5">
         <div class="container">
           <div class="row">
-            <div v-for="item in galleryItems" :key="item.id" class="col-md-3">
+            <div v-for="item in galleryItems" :key="item.id" class="col-md-3 col-sm-6">
               <div class="card mb-4 shadow-sm card-image">
                 <div class="card-title card-title-bottom">{{item.title}}</div>
                 <img class="card-img-top" :src="item.image" :alt="item.title" />
               </div>
             </div>
           </div>
-          <div class="row">
-            <PosterButton />
+          <div class="row mb-md-5">
+            <poster-button :button-text="$t('gallery.button_text')" />
           </div>
         </div>
       </div>
@@ -45,14 +41,14 @@ export default {
   data() {
     return {
       galleryItems: [
-        { id: 1, image: gallery1, title: "Liebe" },
-        { id: 2, image: gallery2, title: "Freundschaft" },
-        { id: 3, image: gallery3, title: "Jahrestag" },
-        { id: 4, image: gallery4, title: "Hochzeit" },
-        { id: 5, image: gallery5, title: "Geburt" },
-        { id: 6, image: gallery6, title: "Geburtstag" },
-        { id: 7, image: gallery7, title: "Erfolg" },
-        { id: 8, image: gallery8, title: "Abenteuer" },
+        { id: 1, image: gallery1, title: this.$t("gallery.list.love") },
+        { id: 2, image: gallery2, title: this.$t("gallery.list.friendship") },
+        { id: 3, image: gallery3, title: this.$t("gallery.list.anniversary") },
+        { id: 4, image: gallery4, title: this.$t("gallery.list.wedding") },
+        { id: 5, image: gallery5, title: this.$t("gallery.list.birth") },
+        { id: 6, image: gallery6, title: this.$t("gallery.list.birthday") },
+        { id: 7, image: gallery7, title: this.$t("gallery.list.success") },
+        { id: 8, image: gallery8, title: this.$t("gallery.list.adventure") },
       ],
     };
   },

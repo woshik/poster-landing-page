@@ -2,15 +2,15 @@
   <div>
     <Header />
     <main role="main">
-      <FullBanner />
-      <Album />
-      <OurWorks />
-      <Price />
-      <Gallery />
-      <Poster />
-      <Testimonial />
+      <full-banner />
+      <album />
+      <our-works />
+      <price />
+      <gallery />
+      <poster />
+      <testimonial />
       <hr class="featurette-divider" />
-      <Service />
+      <service />
     </main>
     <Footer />
   </div>

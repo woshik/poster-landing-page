@@ -1,14 +1,12 @@
 <template>
-  <Home />
+  <home />
 </template>
 
 <script>
-import Home from "./screen/Home";
-
 export default {
   name: "App",
   components: {
-    Home,
+    Home: () => import("./screen/Home"),
   },
 };
 </script>
