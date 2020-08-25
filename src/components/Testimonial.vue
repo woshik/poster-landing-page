@@ -13,9 +13,9 @@
             <div class="writer">{{$t("testimonial.one.occupation")}}</div>
           </div>
         </div>
-        <button
+        <a href="https://editor.sternenhimmel-poster.de/new/"
           class="btn btn-design-poster"
-        >{{$t("testimonial.button_text",{kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})}}</button>
+        >{{$t("testimonial.button_text",{kw: $route.query.kw ? $route.query.kw : 'Sternenhimmel'})}}</a>
       </div>
     </div>
   </section>

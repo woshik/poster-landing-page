@@ -3,7 +3,7 @@
     <div class="container-fluid custom-image-container">
       <p class="middle-section-title custom-margin-1">{{$t("album.heading")}}</p>
       <div class="row">
-        <div v-for="item in cardItems" :key="item.id" class="col-md-3 col-sm-6">
+        <div v-for="item in cardItems" :key="item.id" class="col-md-3 col-sm-6 col-6">
           <div class="card mb-4 shadow-sm card-image">
             <img class="card-img-top" :src="item.image" alt="1-quad" />
             <div class="card-body">

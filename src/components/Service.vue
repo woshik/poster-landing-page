@@ -2,7 +2,7 @@
   <section class="service-section">
     <div class="container marketing">
       <div class="row text-center">
-        <div v-for="item in serviceList" :key="item.id" class="col-md-3 col-sm-6">
+        <div v-for="item in serviceList" :key="item.id" class="col-md-3 col-sm-6 col-6">
           <p>
             <font-awesome-icon :icon="item.icon" />
           </p>

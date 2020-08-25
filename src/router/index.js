@@ -11,13 +11,32 @@ const routes = [
     },
     children: [
       {
+        path: 'impressum',
+        name: 'impressum',
+        component: () => import('../views/Imprint.vue'),
+      },
+      {
+        path: 'agb',
+        name: 'agb',
+        component: () => import('../views/TermCondition.vue'),
+      },
+      {
+        path: 'datenschutzerklaerung',
+        name: 'datenschutzerklaerung',
+        component: () => import('../views/PrivacyPolicy.vue'),
+      },
+      {
+        path: 'versand',
+        name: 'versand',
+        component: () => import('../views/ShippingPayment.vue'),
+      },
+      {
         path: '',
         name: 'home',
         component: () => import('../views/Home.vue'),
       },
     ],
   },
-  { path: '/', redirect: '/de' },
 ];
 
 const router = new VueRouter({

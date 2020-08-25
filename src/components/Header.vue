@@ -2,7 +2,7 @@
   <header>
     <b-navbar toggleable="lg" type="dark" class="custom-navbar">
       <b-navbar-brand :href="'/'+$route.params.lang">
-        <img :src="logo" width="60%" />
+        <img :src="logo" width="100%" />
       </b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -17,7 +17,7 @@
             class="p-2 mr-3"
             href="#"
           >{{item.name}}</a>
-          <a class="btn btn-zum-editor mr-5" href="https://editor.sternenhimmel-poster.de/new/">
+          <a class="btn btn-zum-editor" href="https://editor.sternenhimmel-poster.de/new/">
             <font-awesome-icon icon="edit" class="mr-1" />Zum Editor
           </a>
         </b-navbar-nav>

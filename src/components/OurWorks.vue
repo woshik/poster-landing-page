@@ -4,7 +4,7 @@
       <h1 class="jumbotron-heading">{{$t("our_work.heading")}}</h1>
       <p class="lead text-muted card-image-text">{{$t("our_work.sub_heading")}}</p>
       <div class="album py-5">
-        <div class="container">
+        <div class="container-fluid px-5">
           <div class="row">
             <div v-for="item in videoItem" :key="item.id" class="col-md-4">
               <div class="card mb-4 shadow-sm card-image">

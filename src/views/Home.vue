@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Header />
     <main role="main">
       <full-banner />
       <album />
@@ -12,7 +11,9 @@
       <hr class="featurette-divider" />
       <service />
     </main>
+
     <Footer />
+    <footer-payment />
   </div>
 </template>
 
@@ -20,7 +21,6 @@
 export default {
   name: "Home",
   components: {
-    Header: () => import("../components/Header"),
     FullBanner: () => import("../components/FullBanner"),
     Album: () => import("../components/Album"),
     OurWorks: () => import("../components/OurWorks"),
@@ -30,6 +30,7 @@ export default {
     Testimonial: () => import("../components/Testimonial"),
     Service: () => import("../components/Service"),
     Footer: () => import("../components/Footer"),
+    FooterPayment: () => import("../components/FooterPayment"),
   },
 };
 </script>
