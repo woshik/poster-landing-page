@@ -32,8 +32,20 @@ export default {
     Footer: () => import("../components/Footer"),
     FooterPayment: () => import("../components/FooterPayment"),
   },
-  mounted: () => {
-    window.scrollTo(0, 0);
+  mounted: function () {
+    let hash = this.$route.hash;
+    if (hash) {
+      setTimeout(function () {
+        window.scroll({
+          top:
+            window.scrollY +
+            document.querySelector(hash).getBoundingClientRect().top,
+          behavior: "smooth",
+        });
+      }, 100);
+    } else {
+      window.scrollTo(0, 0);
+    }
   },
 };
 </script>

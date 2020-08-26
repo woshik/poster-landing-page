@@ -10,13 +10,12 @@
       <b-collapse id="nav-collapse" is-nav>
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
-          <a
+          <span
             v-for="item in menuItems"
             :key="item.id"
-            v-scroll-to="item.element"
             class="p-2 mr-3"
-            href="#"
-          >{{item.name}}</a>
+            @click="navClick(item.link)"
+          >{{item.name}}</span>
           <a class="btn btn-zum-editor" href="https://editor.sternenhimmel-poster.de/new/">
             <font-awesome-icon icon="edit" class="mr-1" />Zum Editor
           </a>
@@ -35,11 +34,42 @@ export default {
     return {
       logo,
       menuItems: [
-        { id: 1, element: "#home", name: this.$t("header.home") },
-        { id: 2, element: "#our-works", name: this.$t("header.how_it_works") },
-        { id: 3, element: "#inspiration", name: this.$t("header.inspiration") },
+        { id: 1, link: "home", name: this.$t("header.home") },
+        { id: 2, link: "our-works", name: this.$t("header.how_it_works") },
+        { id: 3, link: "inspiration", name: this.$t("header.inspiration") },
       ],
     };
   },
+  methods: {
+    navClick: function (hash) {
+      let element = document.getElementById(hash);
+
+      if (!element) {
+        this.$router.push(`/${this.$route.params.lang}#${hash}`);
+        return;
+      }
+
+      if (hash) {
+        window.scroll({
+          top: window.scrollY + element.getBoundingClientRect().top,
+          behavior: "smooth",
+        });
+      } else {
+        window.scroll({
+          top: 0,
+          behavior: "smooth",
+        });
+      }
+    },
+  },
 };
 </script>
+
+<style scoped>
+.navbar-nav span {
+  color: #fff;
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: bolder;
+}
+</style>
