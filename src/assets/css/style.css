@@ -20,6 +20,25 @@ body {
   margin: 0;
 }
 
+.custom-grid-middle {
+  max-width: 40%;
+  flex: 0 0 40%;
+}
+
+.custom-grid {
+  max-width: 30%;
+  flex: 0 0 30%;
+}
+
+.custom-grid-middle img,
+.custom-grid img {
+  width: 100% !important;
+}
+
+.word-poster-mobile-button {
+  display: none;
+}
+
 .full-banner {
   background-image: url('../images/banner.png');
   background-position: top center;
@@ -251,18 +270,12 @@ footer p {
 }
 
 .price-img {
-  max-width: 768px;
-  max-height: 1075px;
-  width: 268.59px;
-  height: 368.03px;
   border-style: solid;
   border-width: 10px;
   box-shadow: 1px 3px 10px 1px rgba(0, 0, 0, 0.5);
 }
 
 .price-img-active {
-  width: 360.59px;
-  height: 496.83px;
   border-style: solid;
   border-width: 10px;
   box-shadow: 1px 3px 10px 1px rgba(0, 0, 0, 0.5);
@@ -561,12 +574,6 @@ video {
   .card-title3 {
     font-size: 18px;
   }
-  .price-img {
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
-  }
 }
 
 @media only screen and (max-width: 767.98px) {
@@ -652,10 +659,6 @@ video {
     line-height: 30px;
   }
   .price-img {
-    max-width: 100%;
-    max-height: 100%;
-    width: auto;
-    height: auto;
     border-width: 3px;
   }
   h1.jumbotron-heading {
@@ -684,5 +687,19 @@ video {
 
   .order-change-mobile {
     order: 2;
+  }
+
+  .custom-grid-middle,
+  .custom-grid {
+    padding: 0 5px;
+  }
+
+  .word-poster-mobile-button {
+    display: block;
+    margin-bottom: 2rem;
+  }
+
+  .word-poster-destop-button {
+    display: none;
   }
 }

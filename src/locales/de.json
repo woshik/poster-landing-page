@@ -33,6 +33,11 @@
       "two": "2. Persönliche Widmung",
       "three": "3. Dein Design"
     },
+    "mobile_button": {
+      "one": "Jetzt den Editor ausprobieren!",
+      "two": "Deine Personalisierung gestalten!",
+      "three": "Jetzt dein {kw} Poster gestalten und Freude bereiten!"
+    },
     "button_text": "Jetzt dein {kw} Poster gestalten und Freude bereiten!"
   },
   "price": {

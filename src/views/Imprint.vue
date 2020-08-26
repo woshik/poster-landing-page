@@ -18,6 +18,9 @@ export default {
   components: {
     Footer: () => import("../components/Footer"),
   },
+  mounted: () => {
+    window.scrollTo(0, 0);
+  },
 };
 </script>
 
@@ -66,6 +69,11 @@ h6 {
   font-weight: 500;
   line-height: 1.2;
   color: inherit;
+}
+
+h1,
+h2 {
+  word-break: break-all;
 }
 
 .quelle,

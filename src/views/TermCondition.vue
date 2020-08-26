@@ -14,6 +14,9 @@ export default {
   components: {
     Footer: () => import("../components/Footer"),
   },
+  mounted: () => {
+    window.scrollTo(0, 0);
+  },
 };
 </script>
 
@@ -31,6 +34,11 @@ div {
 
 p {
   font-size: 19px;
+}
+
+h1,
+h2 {
+  word-break: break-all;
 }
 
 .top-margin {

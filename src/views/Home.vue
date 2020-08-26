@@ -32,5 +32,8 @@ export default {
     Footer: () => import("../components/Footer"),
     FooterPayment: () => import("../components/FooterPayment"),
   },
+  mounted: () => {
+    window.scrollTo(0, 0);
+  },
 };
 </script>
