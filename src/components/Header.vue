@@ -26,6 +26,7 @@
 
 <script>
 import logo from "../assets/images/logo-light.png";
+import { BNavbar, BNavbarToggle, BCollapse, BNavbarNav } from "bootstrap-vue";
 
 export default {
   name: "Header",
@@ -38,6 +39,12 @@ export default {
         { id: 3, link: "inspiration", name: this.$t("header.inspiration") },
       ],
     };
+  },
+  components: {
+    BNavbar,
+    BNavbarToggle,
+    BCollapse,
+    BNavbarNav,
   },
   methods: {
     navClick: function (hash) {
