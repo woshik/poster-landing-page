@@ -66,12 +66,3 @@ export default {
   },
 };
 </script>
-
-<style scoped>
-.navbar-nav span {
-  color: #fff;
-  cursor: pointer;
-  font-size: 17px;
-  font-weight: bolder;
-}
-</style>
