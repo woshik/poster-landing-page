@@ -18,30 +18,42 @@
 </template>
 
 <script>
+import FullBanner from "../components/FullBanner";
+import Album from "../components/Album";
+import OurWorks from "../components/OurWorks";
+import Price from "../components/Price";
+import Gallery from "../components/Gallery";
+import Poster from "../components/Poster";
+import Testimonial from "../components/Testimonial";
+import Service from "../components/Service";
+import Footer from "../components/Footer";
+import FooterPayment from "../components/FooterPayment";
+
 export default {
   name: "Home",
   components: {
-    FullBanner: () => import("../components/FullBanner"),
-    Album: () => import("../components/Album"),
-    OurWorks: () => import("../components/OurWorks"),
-    Price: () => import("../components/Price"),
-    Gallery: () => import("../components/Gallery"),
-    Poster: () => import("../components/Poster"),
-    Testimonial: () => import("../components/Testimonial"),
-    Service: () => import("../components/Service"),
-    Footer: () => import("../components/Footer"),
-    FooterPayment: () => import("../components/FooterPayment"),
+    FullBanner,
+    Album,
+    OurWorks,
+    Price,
+    Gallery,
+    Poster,
+    Testimonial,
+    Service,
+    Footer,
+    FooterPayment,
   },
   mounted: function () {
     let hash = this.$route.hash;
     if (hash) {
       setTimeout(function () {
-        window.scroll({
-          top:
-            window.scrollY +
-            document.querySelector(hash).getBoundingClientRect().top,
-          behavior: "smooth",
-        });
+        let element = document.querySelector(hash);
+        if (element) {
+          window.scroll({
+            top: window.scrollY + element.getBoundingClientRect().top,
+            behavior: "smooth",
+          });
+        }
       }, 100);
     } else {
       window.scrollTo(0, 0);

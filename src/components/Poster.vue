@@ -12,14 +12,7 @@
         </div>
       </div>
       <div class="col-md-5 order-md-1">
-        <video
-          src="https://sternenhimmel-poster.gumlet.com/wp-content/uploads/2020/05/Sternenhimmel.mov"
-          autoplay
-          loop
-          muted="muted"
-          playsinline
-          controlslist="nodownload"
-        />
+        <img v-lazy="poster1" alt="poster" width="100%" />
       </div>
     </div>
 
@@ -35,7 +28,7 @@
         </div>
       </div>
       <div class="col-md-5">
-        <img class="featurette-image img-fluid mx-auto" :src="poster" alt="poster" />
+        <img class="featurette-image img-fluid mx-auto" v-lazy="poster" alt="poster" />
       </div>
     </div>
   </section>
@@ -44,6 +37,7 @@
 <script>
 import PosterButton from "./generic/PosterButton";
 import poster from "../assets/images/poster.png";
+import poster1 from "../assets/images/poster1.gif";
 export default {
   name: "Poster",
   components: {
@@ -52,6 +46,7 @@ export default {
   data() {
     return {
       poster,
+      poster1,
     };
   },
 };

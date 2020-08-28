@@ -9,10 +9,12 @@
 </template>
 
 <script>
+import Footer from "../components/Footer";
+
 export default {
   name: "TermCondition",
   components: {
-    Footer: () => import("../components/Footer"),
+    Footer,
   },
   mounted: () => {
     window.scrollTo(0, 0);

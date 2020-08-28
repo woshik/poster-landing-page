@@ -11,7 +11,7 @@
             <div v-for="item in galleryItems" :key="item.id" class="col-md-3 col-sm-6 col-6">
               <div class="card mb-4 shadow-sm card-image">
                 <div class="card-title card-title-bottom">{{item.title}}</div>
-                <img class="card-img-top" :src="item.image" :alt="item.title" />
+                <img class="card-img-top" v-lazy="item.image" :alt="item.title" />
               </div>
             </div>
           </div>

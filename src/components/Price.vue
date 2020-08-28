@@ -7,10 +7,15 @@
       <div class="album py-5">
         <div class="container">
           <div class="row text-center align-items-center">
-            <div v-for="(item, i) in priceList" :key="item.id" class="col-4" :class="[i === 1 ? 'custom-grid-middle' : 'custom-grid']">
+            <div
+              v-for="(item, i) in priceList"
+              :key="item.id"
+              class="col-4"
+              :class="[i === 1 ? 'custom-grid-middle' : 'custom-grid']"
+            >
               <img
                 :class="[i === 1 ? 'price-img-active' : 'price-img']"
-                :src="item.image"
+                v-lazy="item.image"
                 alt="price"
               />
             </div>
@@ -18,7 +23,7 @@
           <!-- pricing desc -->
           <div class="row pt-5 pb-5">
             <!-- 1st cloumn -->
-            <div v-for="item in priceList" :key="item.id" class="col-md-4 price-slot" >
+            <div v-for="item in priceList" :key="item.id" class="col-md-4 price-slot">
               <div class="card card-image">
                 <div class="card-body">
                   <div class="card-title price-title">{{item.title}}</div>

@@ -20,6 +20,12 @@ body {
   margin: 0;
 }
 
+ul.navbar-nav.ml-auto li {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
 .custom-grid-middle {
   max-width: 40%;
   flex: 0 0 40%;

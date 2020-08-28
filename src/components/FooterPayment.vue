@@ -5,7 +5,7 @@
         <div class="payment-title">{{$t("footer.payment")}}</div>
       </div>
       <div class="col-md-12 mt-3">
-        <img :src="payment" alt="payment" />
+        <img v-lazy="payment" alt="payment" />
       </div>
     </div>
   </div>

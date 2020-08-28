@@ -13,10 +13,12 @@
 </template>
 
 <script>
+import Footer from "../components/Footer";
+
 export default {
   name: "ShippingPayment",
   components: {
-    Footer: () => import("../components/Footer"),
+    Footer,
   },
   mounted: () => {
     window.scrollTo(0, 0);
