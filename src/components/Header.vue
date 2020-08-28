@@ -1,7 +1,7 @@
 <template>
   <header>
     <b-navbar toggleable="lg" type="dark" class="custom-navbar">
-      <router-link :to="'/'+$route.params.lang" class="navbar-brand">
+      <router-link :to="{name: 'home'}" class="navbar-brand">
         <img :src="logo" alt="logo" width="100%" />
       </router-link>
 

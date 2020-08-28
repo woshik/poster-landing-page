@@ -21,7 +21,12 @@ Vue.config.productionTip = false;
 
 // routuing
 router.beforeEach((to, from, next) => {
-  const lang = to.params.lang;
+  let lang = to.params.lang;
+
+  if (!lang) {
+    lang = to.path.split('/')[1];
+    to.params.lang = lang;
+  }
 
   if (!['en', 'de'].includes(lang)) {
     return next('de');

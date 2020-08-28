@@ -4,7 +4,7 @@
       <div class="col-12">
         <ul class="list-horizontal">
           <li>
-            <router-link :to="'/'+$route.params.lang">{{$t("footer.home")}}</router-link>
+            <router-link :to="{name: 'home'}">{{$t("footer.home")}}</router-link>
           </li>
           <li>
             <router-link :to="'/'+$route.params.lang+'/impressum'">{{$t("footer.imprint")}}</router-link>
@@ -16,7 +16,7 @@
             <router-link :to="'/'+$route.params.lang+'/datenschutzerklaerung'">{{$t("footer.privacy_policy")}}</router-link>
           </li>
           <li>
-            <router-link :to="'/'+$route.params.lang+'/versand'" v-html="$t('footer.shipping_payment')"></router-link>
+            <router-link :to="{name: 'versand'}" v-html="$t('footer.shipping_payment')"></router-link>
           </li>
         </ul>
       </div>

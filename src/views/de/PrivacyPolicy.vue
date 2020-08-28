@@ -1,0 +1,1313 @@
+<template>
+  <div>
+    <main role="main">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 top-margin">
+            <h1>Datenschutzerklärung</h1>
+            <h2>Datenschutz</h2>
+            <p>
+              Wir haben diese Datenschutzerklärung (Fassung 18.04.2020-311170265) verfasst, um Ihnen gemäß der Vorgaben der
+              <a
+                href="https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679&amp;tid=311170265"
+                target="_blank"
+                rel="noopener"
+              >Datenschutz-Grundverordnung (EU) 2016/679</a> zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
+            </p>
+            <p>Leider liegt es in der Natur der Sache, dass diese Erklärungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bemüht die wichtigsten Dinge so einfach und klar wie möglich zu beschreiben.</p>
+            <p>&nbsp;</p>
+            <h2>Automatische Datenspeicherung</h2>
+            <p>Wenn Sie heutzutage Webseiten besuchen, werden gewisse Informationen automatisch erstellt und gespeichert, so auch auf dieser Webseite.</p>
+            <p>Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver (Computer auf dem diese Webseite gespeichert ist) automatisch Daten wie</p>
+            <ul>
+              <li>die Adresse (URL) der aufgerufenen Webseite</li>
+              <li>Browser und Browserversion</li>
+              <li>das verwendete Betriebssystem</li>
+              <li>die Adresse (URL) der zuvor besuchten Seite (Referrer URL)</li>
+              <li>den Hostname und die IP-Adresse des Geräts von welchem aus zugegriffen wird</li>
+              <li>Datum und Uhrzeit</li>
+            </ul>
+            <p>in Dateien (Webserver-Logfiles).</p>
+            <p>In der Regel werden Webserver-Logfiles zwei Wochen gespeichert und danach automatisch gelöscht. Wir geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden.</p>
+            <p>&nbsp;</p>
+            <h2>Cookies</h2>
+            <p>
+              Unsere Website verwendet HTTP-Cookies um nutzerspezifische Daten zu speichern.
+              <br />Im Folgenden erklären wir, was Cookies sind und warum Sie genutzt werden, damit Sie die folgende Datenschutzerklärung besser verstehen.
+            </p>
+            <p>&nbsp;</p>
+            <h3>Was genau sind Cookies?</h3>
+            <p>Immer wenn Sie durch das Internet surfen, verwenden Sie einen Browser. Bekannte Browser sind beispielsweise Chrome, Safari, Firefox, Internet Explorer und Microsoft Edge. Die meisten Webseiten speichern kleine Text-Dateien in Ihrem Browser. Diese Dateien nennt man Cookies.</p>
+            <p>Eines ist nicht von der Hand zu weisen: Cookies sind echt nützliche Helferlein. Fast alle Webseiten verwenden&nbsp;Cookies. Genauer gesprochen sind es HTTP-Cookies, da es auch noch andere&nbsp;Cookies für andere Anwendungsbereiche gibt. HTTP-Cookies&nbsp;sind kleine Dateien, die von unserer Website auf Ihrem Computer gespeichert werden. Diese Cookie-Dateien werden automatisch im Cookie-Ordner, quasi dem “Hirn” Ihres Browsers, untergebracht. Ein Cookie besteht aus einem Namen und einem Wert. Bei der Definition eines Cookies müssen zusätzlich ein oder mehrere Attribute angegeben werden.</p>
+            <p>Cookies&nbsp;speichern gewisse Nutzerdaten von Ihnen, wie beispielsweise Sprache oder persönliche Seiteneinstellungen. Wenn Sie unsere Seite wieder aufrufen, übermittelt Ihr Browser die „userbezogenen“ Informationen an unsere Seite zurück. Dank der Cookies weiß unsere Website, wer Sie sind und bietet Ihnen Ihre gewohnte Standardeinstellung. In einigen Browsern hat jedes&nbsp;Cookie&nbsp;eine eigene Datei, in anderen wie beispielsweise Firefox sind alle&nbsp;Cookies&nbsp;in einer einzigen Datei gespeichert.</p>
+            <p>Es gibt sowohl Erstanbieter Cookies als auch Drittanbieter-Cookies. Erstanbieter-Cookies werden direkt von unserer Seite erstellt, Drittanbieter-Cookies werden von Partner-Webseiten (z.B. Google Analytics) erstellt.&nbsp;Jedes Cookie ist individuell zu bewerten, da jedes Cookie andere Daten speichert. Auch die Ablaufzeit eines Cookies variiert von ein paar Minuten bis hin zu ein paar Jahren.&nbsp;Cookies sind keine Software-Programme und enthalten keine Viren, Trojaner oder andere „Schädlinge“. Cookies können auch nicht auf Informationen Ihres PCs zugreifen.</p>
+            <p>So können zum Beispiel Cookie-Daten aussehen:</p>
+            <ul>
+              <li>Name: _ga</li>
+              <li>Ablaufzeit: 2 Jahre</li>
+              <li>Verwendung: Unterscheidung der Webseitenbesucher</li>
+              <li>Beispielhafter Wert:&nbsp;GA1.2.1326744211.152311170265</li>
+            </ul>
+            <p>Ein Browser sollte folgende Mindestgrößen unterstützen:</p>
+            <ul>
+              <li>Ein Cookie soll mindestens 4096 Bytes enthalten können</li>
+              <li>Pro Domain sollen mindestens 50 Cookies gespeichert werden können</li>
+              <li>
+                Insgesamt sollen mindestens 3000 Cookies gespeichert werden können
+                <br />
+                <br />
+              </li>
+            </ul>
+            <h3>Welche Arten von Cookies gibt es?</h3>
+            <p>Die Frage welche Cookies wir im Speziellen verwenden, hängt von den verwendeten Diensten ab und wird in der folgenden Abschnitten der Datenschutzerklärung geklärt. An dieser Stelle möchten wir kurz auf die verschiedenen Arten von HTTP-Cookies eingehen.</p>
+            <p>Man kann 4 Arten von Cookies unterscheiden:</p>
+            <p>
+              <strong>
+                Unbedingt notwendige Cookies
+                <br />
+              </strong>Diese Cookies sind nötig, um grundlegende Funktionen der Website sicherzustellen. Zum Beispiel braucht es diese Cookies, wenn ein User ein Produkt in den Warenkorb legt, dann auf anderen Seiten weitersurft und später erst zur Kasse geht. Durch diese Cookies wird der Warenkorb nicht gelöscht, selbst wenn der User sein Browserfenster schließt.
+            </p>
+            <p>
+              <strong>
+                Funktionelle Cookies
+                <br />
+              </strong>Diese Cookies sammeln Infos über das Userverhalten und ob der User etwaige Fehlermeldungen bekommt. Zudem werden mithilfe dieser Cookies auch die Ladezeit und das Verhalten der Website bei verschiedenen Browsern gemessen.
+            </p>
+            <p>
+              <strong>
+                Zielorientierte Cookies
+                <br />
+              </strong>Diese Cookies sorgen für eine bessere Nutzerfreundlichkeit. Beispielsweise werden eingegebene Standorte, Schriftgrößen oder Formulardaten gespeichert.
+            </p>
+            <p>
+              <strong>
+                Werbe-Cookies
+                <br />
+              </strong>Diese Cookies werden auch Targeting-Cookies genannt. Sie dienen dazu dem User individuell angepasste Werbung zu liefern. Das kann sehr praktisch, aber auch sehr nervig sein.
+            </p>
+            <p>
+              Üblicherweise werden Sie beim erstmaligen Besuch einer Webseite gefragt, welche dieser Cookiearten Sie zulassen möchten. Und natürlich wird diese Entscheidung auch in einem Cookie gespeichert.
+              <br />
+              <br />
+            </p>
+            <h3>Wie kann ich Cookies löschen?</h3>
+            <p>Wie und ob Sie Cookies verwenden wollen, entscheiden Sie selbst. Unabhängig von welchem Service oder welcher Website die Cookies stammen, haben Sie immer die Möglichkeit&nbsp;Cookies zu löschen, nur teilweise zuzulassen oder zu deaktivieren. Zum Beispiel können Sie Cookies von Drittanbietern blockieren, aber alle anderen Cookies zulassen.</p>
+            <p>Wenn Sie feststellen möchten, welche Cookies in Ihrem Browser gespeichert wurden, wenn Sie Cookie-Einstellungen ändern oder löschen wollen, können Sie dies in Ihren Browser-Einstellungen finden:</p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/chrome/answer/95647?tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >Chrome: Cookies in Chrome löschen, aktivieren und verwalten</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >Safari: Verwalten von Cookies und Websitedaten mit Safari</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >Internet Explorer: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >Microsoft Edge: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>
+              Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Die Vorgangsweise ist je nach Browser verschieden. Am besten ist es Sie suchen die Anleitung in Google mit dem Suchbegriff “Cookies löschen Chrome” oder “Cookies deaktivieren Chrome” im Falle eines Chrome Browsers oder tauschen das Wort “Chrome” gegen den Namen Ihres Browsers, z.B. Edge, Firefox, Safari aus.
+              <br />
+              <br />
+            </p>
+            <h3>Wie sieht es mit meinem Datenschutz aus?</h3>
+            <p>Seit 2009 gibt es die sogenannten „Cookie-Richtlinien“. Darin ist festgehalten, dass das Speichern von Cookies eine Einwilligung des Website-Besuchers (also von Ihnen) verlangt. Innerhalb der EU-Länder gibt es allerdings noch sehr unterschiedliche Reaktionen auf diese Richtlinien. In Deutschland wurden die Cookie-Richtlinien nicht als nationales Recht umgesetzt. Stattdessen erfolgte die Umsetzung dieser Richtlinie weitgehend in § 15 Abs.3 des Telemediengesetzes (TMG).</p>
+            <p>
+              Wenn Sie mehr über Cookies wissen möchten und vor technischen Dokumentationen nicht zurückscheuen, empfehlen wir&nbsp;
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://tools.ietf.org/html/rfc6265"
+                  target="_blank"
+                  rel="nofollow noopener"
+                >https://tools.ietf.org/html/rfc6265</a>
+              </span>, dem Request for Comments der Internet Engineering Task Force (IETF) namens “HTTP State Management Mechanism”.
+              <br />
+              <br />
+            </p>
+            <h2>Speicherung persönlicher Daten</h2>
+            <p>Persönliche Daten, die Sie uns auf dieser Website elektronisch übermitteln, wie zum Beispiel Name, E-Mail-Adresse, Adresse oder andere persönlichen Angaben im Rahmen der Übermittlung eines Formulars oder Kommentaren im Blog, werden von uns gemeinsam mit dem Zeitpunkt und der IP-Adresse nur zum jeweils angegebenen Zweck verwendet, sicher verwahrt und nicht an Dritte weitergegeben.</p>
+            <p>Wir nutzen Ihre persönlichen Daten somit nur für die Kommunikation mit jenen Besuchern, die Kontakt ausdrücklich wünschen und für die Abwicklung der auf dieser Webseite angebotenen Dienstleistungen und Produkte. Wir geben Ihre persönlichen Daten ohne Zustimmung nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen von rechtswidrigem Verhalten eingesehen werden.</p>
+            <p>Wenn Sie uns persönliche Daten per E-Mail schicken – somit abseits dieser Webseite – können wir keine sichere Übertragung und den Schutz Ihrer Daten garantieren. Wir empfehlen Ihnen, vertrauliche Daten niemals unverschlüsselt per E-Mail zu übermitteln.</p>
+            <p>
+              Die Rechtsgrundlage besteht nach
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >Artikel 6&nbsp; Absatz 1 a DSGVO</a>
+              </span>(Rechtmäßigkeit der Verarbeitung) darin, dass Sie uns die Einwilligung zur Verarbeitung der von Ihnen eingegebenen Daten geben. Sie können diesen Einwilligung jederzeit widerrufen – eine formlose E-Mail reicht aus, Sie finden unsere Kontaktdaten im Impressum.
+            </p>
+            <p>&nbsp;</p>
+            <h2>Rechte laut Datenschutzgrundverordnung</h2>
+            <p>Ihnen stehen laut den Bestimmungen der DSGVO grundsätzlich die folgende Rechte zu:</p>
+            <ul>
+              <li>Recht auf Berichtigung (Artikel 16 DSGVO)</li>
+              <li>Recht auf Löschung („Recht auf Vergessenwerden“) (Artikel 17 DSGVO)</li>
+              <li>Recht auf Einschränkung der Verarbeitung (Artikel 18 DSGVO)</li>
+              <li>Recht auf Benachrichtigung – Mitteilungspflicht im Zusammenhang mit der Berichtigung oder Löschung personenbezogener Daten oder der Einschränkung der Verarbeitung (Artikel 19 DSGVO)</li>
+              <li>Recht auf Datenübertragbarkeit (Artikel 20 DSGVO)</li>
+              <li>Widerspruchsrecht (Artikel 21 DSGVO)</li>
+              <li>Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung — einschließlich Profiling — beruhenden Entscheidung unterworfen zu werden (Artikel 22 DSGVO)</li>
+            </ul>
+            <p>
+              Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich an die
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.bfdi.bund.de"
+                  target="_blank"
+                  rel="noopener"
+                >Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI)</a>
+              </span>wenden.
+            </p>
+            <p>&nbsp;</p>
+            <h2>Auswertung des Besucherverhaltens</h2>
+            <p>In der folgenden Datenschutzerklärung informieren wir Sie darüber, ob und wie wir Daten Ihres Besuchs dieser Website auswerten. Die Auswertung der gesammelten Daten erfolgt in der Regel anonym und wir können von Ihrem Verhalten auf dieser Website nicht auf Ihre Person schließen.</p>
+            <p>Mehr über Möglichkeiten dieser Auswertung der Besuchsdaten zu widersprechen erfahren Sie in der folgenden Datenschutzerklärung.</p>
+            <p>&nbsp;</p>
+            <h2>TLS-Verschlüsselung mit https</h2>
+            <p>
+              Wir verwenden https um Daten abhörsicher im Internet zu übertragen (Datenschutz durch Technikgestaltung
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679&amp;from=DE&amp;tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >Artikel 25 Absatz 1 DSGVO</a>)
+              </span>. Durch den Einsatz von TLS (Transport Layer Security), einem Verschlüsselungsprotokoll zur sicheren Datenübertragung im Internet können wir den Schutz vertraulicher Daten sicherstellen. Sie erkennen die Benutzung dieser Absicherung der Datenübertragung am kleinen Schloßsymbol links oben im Browser und der Verwendung des Schemas https (anstatt http) als Teil unserer Internetadresse.
+            </p>
+            <p>&nbsp;</p>
+            <h2>Google Analytics Datenschutzerklärung</h2>
+            <p>Wir verwenden auf unserer Website das Analyse-Tracking Tool Google Analytics (GA) des amerikanischen Unternehmens Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Google Analytics sammelt Daten über Ihre Handlungen auf unserer Website. Wenn Sie beispielsweise einen Link anklicken, wird diese Aktion in einem Cookie gespeichert und an Google Analytics versandt. Mithilfe der Berichte, die wir von Google Analytics erhalten, können wir unsere Website und unser Service besser an Ihre Wünsche anpassen. Im Folgenden gehen wir näher auf das Tracking Tool ein und informieren Sie vor allem darüber, welche Daten gespeichert werden und wie Sie das verhindern können.</p>
+            <p>&nbsp;</p>
+            <h3>Was ist Google Analytics?</h3>
+            <p>Google Analytics ist ein Trackingtool, das der Datenverkehrsanalyse unserer Website dient. Damit Google Analytics funktioniert, wird ein Tracking-Code in den Code unserer Website eingebaut. Wenn Sie unsere Website besuchen, zeichnet dieser Code verschiedene Handlungen auf, die Sie auf unserer Website ausführen. Sobald Sie unsere Website verlassen, werden diese Daten an die Google-Analytics-Server gesendet und dort gespeichert.</p>
+            <p>Google verarbeitet die Daten und wir bekommen Berichte über Ihr Userverhalten. Dabei kann es sich unter anderem um folgende Berichte handeln:</p>
+            <ul>
+              <li>Zielgruppenberichte: Über Zielgruppenberichte lernen wir unsere User besser kennen und wissen genauer, wer sich für unser Service interessiert.</li>
+              <li>Anzeigeberichte: Durch Anzeigeberichte können wir unsere Onlinewerbung leichter analysieren und verbessern.</li>
+              <li>Akquisitionsberichte: Akquisitionsberichte geben uns hilfreiche Informationen darüber, wie wir mehr Menschen für unser Service begeistern können.</li>
+              <li>Verhaltensberichte: Hier erfahren wir, wie Sie mit unserer Website interagieren. Wir können nachvollziehen welchen Weg Sie auf unserer Seite zurücklegen und welche Links Sie anklicken.</li>
+              <li>Conversionsberichte: Conversion nennt man einen Vorgang, bei dem Sie aufgrund einer Marketing-Botschaft eine gewünschte Handlung ausführen. Zum Beispiel, wenn Sie von einem reinen Websitebesucher zu einem Käufer oder Newsletter-Abonnent werden. Mithilfe dieser Berichte erfahren wir mehr darüber, wie unsere Marketing-Maßnahmen bei Ihnen ankommen. So wollen wir unsere Conversionrate steigern.</li>
+              <li>Echtzeitberichte: Hier erfahren wir immer sofort, was gerade auf unserer Website passiert. Zum Beispiel sehen wir wie viele User gerade diesen Text lesen.</li>
+            </ul>
+            <h3>Warum verwenden wir Google Analytics auf unserer Webseite?</h3>
+            <p>Unser Ziel mit dieser Website ist klar: Wir wollen Ihnen das bestmögliche Service bieten. Die Statistiken und Daten von Google Analytics helfen uns dieses Ziel zu erreichen.</p>
+            <p>
+              Die statistisch ausgewerteten Daten zeigen uns ein klares Bild von den Stärken und Schwächen unserer Website. Einerseits können wir unsere Seite so optimieren, dass sie von interessierten Menschen auf Google leichter gefunden wird. Andererseits helfen uns die Daten, Sie als Besucher besser zu verstehen. Wir wissen somit sehr genau, was wir an unserer Website verbessern müssen, um Ihnen das bestmögliche Service zu bieten. Die Daten dienen uns auch, unsere Werbe- und Marketing-Maßnahmen individueller und kostengünstiger durchzuführen. Schließlich macht es nur Sinn, unsere Produkte und Dienstleistungen Menschen zu zeigen, die sich dafür interessieren.
+              <br />
+              <br />
+            </p>
+            <h3>Welche Daten werden von Google Analytics gespeichert?</h3>
+            <p>Google Analytics erstellt mithilfe eines Tracking-Codes eine zufällige, eindeutige ID, die mit Ihrem Browser-Cookie verbunden ist. So erkennt Sie Google Analytics als neuen User. Wenn Sie das nächste Mal unsere Seite besuchen, werden Sie als „wiederkehrender“ User erkannt. Alle gesammelten Daten werden gemeinsam mit dieser User-ID gespeichert. So ist es überhaupt erst möglich pseudonyme Userprofile auszuwerten.</p>
+            <p>Durch Kennzeichnungen wie Cookies und App-Instanz-IDs werden Ihre Interaktionen auf unserer Website gemessen. Interaktionen sind alle Arten von Handlungen, die Sie auf unserer Website ausführen. Wenn Sie auch andere Google-Systeme (wie z.B. ein Google-Konto) nützen, können über Google Analytics generierte Daten mit Drittanbieter-Cookies verknüpft werden. Google gibt keine Google Analytics-Daten weiter, außer wir als Websitebetreiber genehmigen das. Zu Ausnahmen kann es kommen, wenn es gesetzlich erforderlich ist.</p>
+            <p>Folgende Cookies werden von Google Analytics verwendet:</p>
+            <p>
+              <strong>Name:</strong> _ga
+              <br />
+              <strong>Wert:</strong>2.1326744211.152311170265-5
+              <br />
+              <strong>Verwendungszweck:</strong> Standardmäßig verwendet analytics.js das Cookie _ga, um die User-ID zu speichern. Grundsätzlich dient es zur Unterscheidung der Webseitenbesucher.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 2 Jahren
+            </p>
+            <p>
+              <strong>Name:</strong> _gid
+              <br />
+              <strong>Wert:</strong>2.1687193234.152311170265-1
+              <br />
+              <strong>Verwendungszweck:</strong>&nbsp;Das Cookie dient auch zur Unterscheidung der Webseitenbesucher.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach 24 Stunden
+            </p>
+            <p>
+              <strong>Name:</strong> _gat_gtag_UA_
+              <strong>Wert:</strong> 1
+              <br />
+              <strong>Verwendungszweck:</strong> Wird zum Senken der Anforderungsrate verwendet. Wenn Google Analytics über den Google Tag Manager bereitgestellt wird, erhält dieser Cookie den Namen _dc_gtm_ .
+              <br />
+              <strong>Ablaufdatum:</strong>nach 1 Minute
+            </p>
+            <p>
+              <strong>Name:</strong> AMP_TOKEN
+              <br />
+              <strong>Wert:</strong> keine Angaben
+              <br />
+              <strong>Verwendungszweck:</strong> Das Cookie hat einen Token, mit dem eine User ID vom AMP-Client-ID-Dienst abgerufen werden kann. Andere mögliche Werte weisen auf eine Abmeldung, eine Anfrage oder einen Fehler hin.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach 30 Sekunden bis zu einem Jahr
+            </p>
+            <p>
+              <strong>Name:</strong> __utma
+              <br />
+              <strong>Wert:</strong>1564498958.1564498958.1564498958.1
+              <br />
+              <strong>Verwendungszweck:</strong> Mit diesem Cookie kann man Ihr Verhalten auf der Website verfolgen und die Leistung messen. Das Cookie wird jedes Mal aktualisiert, wenn Informationen an Google Analytics gesendet werden.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 2 Jahren
+            </p>
+            <p>
+              <strong>Name:</strong> __utmt
+              <br />
+              <strong>Wert:</strong> 1
+              <br />
+              <strong>Verwendungszweck:</strong> Das Cookie wird wie _gat_gtag_UA_ zum Drosseln der Anforderungsrate verwendet.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach 10 Minuten
+            </p>
+            <p>
+              <strong>Name:</strong> __utmb
+              <br />
+              <strong>Wert:</strong>3.10.1564498958
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie wird verwendet, um neue Sitzungen zu bestimmen. Es wird jedes Mal aktualisiert, wenn neue Daten bzw. Infos an Google Analytics gesendet werden.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach 30 Minuten
+            </p>
+            <p>
+              <strong>Name:</strong> __utmc
+              <br />
+              <strong>Wert:</strong> 167421564
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie wird verwendet, um neue Sitzungen für wiederkehrende Besucher festzulegen. Dabei handelt es sich um ein Session-Cookie, und es wird nur solange gespeichert, bis Sie den Browser wieder schließen.
+              <br />
+              <strong>Ablaufdatum:</strong> Nach Schließung des Browsers
+            </p>
+            <p>
+              <strong>Name:</strong> __utmz
+              <br />
+              <strong>Wert:</strong> m|utmccn=(referral)|utmcmd=referral|utmcct=/
+              <br />
+              <strong>Verwendungszweck:</strong> Das Cookie wird verwendet, um die Quelle des Besucheraufkommens auf unserer Website zu identifizieren. Das heißt, das Cookie speichert, von wo Sie auf unsere Website gekommen sind. Das kann eine andere Seite bzw. eine Werbeschaltung gewesen sein.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 6 Monaten
+            </p>
+            <p>
+              <strong>Name:</strong> __utmv
+              <br />
+              <strong>Wert:</strong> keine Angabe
+              <br />
+              <strong>Verwendungszweck:</strong> Das Cookie wird verwendet, um benutzerdefinierte Userdaten zu speichern. Es wird immer aktualisiert, wenn Informationen an Google Analytics gesendet werden.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 2 Jahren
+            </p>
+            <p>
+              <strong>Anmerkung:</strong>&nbsp;Diese Aufzählung kann keinen Anspruch auf Vollständigkeit erheben, da Google die Wahl seiner Cookies immer wieder verändert.
+            </p>
+            <p>Hier zeigen wir Ihnen einen Überblick über die wichtigsten Daten, die mit Google Analytics erhoben werden:</p>
+            <p>
+              <strong>Heatmaps:</strong> Google legt sogenannte Heatmaps an. Über Heatmaps sieht man genau jene Bereiche, die Sie anklicken. So bekommen wir Informationen, wo Sie auf unserer Seite „unterwegs“ sind.
+            </p>
+            <p>
+              <strong>Sitzungsdauer:</strong> Als Sitzungsdauer bezeichnet Google die Zeit, die Sie auf unserer Seite verbringen, ohne die Seite zu verlassen. Wenn Sie 20 Minuten inaktiv waren, endet die Sitzung automatisch.
+            </p>
+            <p>
+              <strong>Absprungrate</strong> (engl. Bouncerate): Von einem Absprung ist die Rede, wenn Sie auf unserer Website nur eine Seite ansehen und dann unsere Website wieder verlassen.
+            </p>
+            <p>
+              <strong>Kontoerstellung:</strong> Wenn Sie auf unserer Website ein Konto erstellen bzw. eine Bestellung machen, erhebt Google Analytics diese Daten.
+            </p>
+            <p>
+              <strong>IP-Adresse:</strong> Die IP-Adresse wird nur in gekürzter Form dargestellt, damit keine eindeutige Zuordnung möglich ist.
+            </p>
+            <p>
+              <strong>Standort:</strong> Über die IP-Adresse kann das Land und Ihr ungefährer Standort bestimmt werden. Diesen Vorgang bezeichnet man auch als IP- Standortbestimmung.
+            </p>
+            <p>
+              <strong>Technische Informationen:</strong> Zu den technischen Informationen zählen unter anderem Ihr Browsertyp, Ihr Internetanbieter oder Ihre Bildschirmauflösung.
+            </p>
+            <p>
+              <strong>Herkunftsquelle:</strong> Google Analytics beziehungsweise uns, interessiert natürlich auch über welche Website oder welche Werbung Sie auf unsere Seite gekommen sind.
+            </p>
+            <p>
+              Weitere Daten sind Kontaktdaten, etwaige Bewertungen, das Abspielen von Medien (z.B., wenn Sie ein Video über unsere Seite abspielen), das Teilen von Inhalten über Social Media oder das Hinzufügen zu Ihren Favoriten. Die Aufzählung hat keinen Vollständigkeitsanspruch und dient nur zu einer allgemeinen Orientierung der Datenspeicherung durch Google Analytics.
+              <br />
+              <br />
+            </p>
+            <h3>Wie lange und wo werden die Daten gespeichert?</h3>
+            <p>
+              Google hat Ihre Server auf der ganzen Welt verteilt. Die meisten Server befinden sich in Amerika und folglich werden Ihre Daten meist auf amerikanischen Servern gespeichert. Hier können Sie genau nachlesen wo sich die Google-Rechenzentren befinden:
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.google.com/about/datacenters/inside/locations/?hl=de"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://www.google.com/about/datacenters/inside/locations/?hl=de</a>
+              </span>
+            </p>
+            <p>Ihre Daten werden auf verschiedenen physischen Datenträgern verteilt. Das hat den Vorteil, dass die Daten schneller abrufbar sind und vor Manipulation besser geschützt sind. In jedem Google-Rechenzentrum gibt es entsprechende Notfallprogramme für Ihre Daten. Wenn beispielsweise die Hardware bei Google ausfällt oder Naturkatastrophen Server lahmlegen, bleibt das Risiko einer Dienstunterbrechung bei Google dennoch gering.</p>
+            <p>Standardisiert ist bei Google Analytics eine Aufbewahrungsdauer Ihrer Userdaten von 26 Monaten eingestellt. Dann werden Ihre Userdaten gelöscht. Allerdings haben wir die Möglichkeit, die Aufbewahrungsdauer von Nutzdaten selbst zu wählen. Dafür stehen uns fünf Varianten zur Verfügung:</p>
+            <ul>
+              <li>Löschung nach 14 Monaten</li>
+              <li>Löschung nach 26 Monaten</li>
+              <li>Löschung nach 38 Monaten</li>
+              <li>Löschung nach 50 Monaten</li>
+              <li>Keine automatische Löschung</li>
+            </ul>
+            <p>
+              Wenn der festgelegte Zeitraum abgelaufen ist, werden einmal im Monat die Daten gelöscht. Diese Aufbewahrungsdauer gilt für Ihre Daten, die mit Cookies, Usererkennung und Werbe-IDs (z.B. Cookies der DoubleClick-Domain) verknüpft sind. Berichtergebnisse basieren auf aggregierten Daten und werden unabhängig von Nutzerdaten gespeichert. Aggregierte Daten sind eine Zusammenschmelzung von Einzeldaten zu einer größeren Einheit.
+              <br />
+              <br />
+            </p>
+            <h3>Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?</h3>
+            <p>
+              Nach dem Datenschutzrecht der Europäischen Union haben Sie das Recht, Auskunft über Ihre Daten zu erhalten, sie zu aktualisieren, zu löschen oder einzuschränken. Mithilfe des Browser-Add-ons zur Deaktivierung von Google Analytics-JavaScript (ga.js, analytics.js, dc.js) verhindern Sie, dass Google Analytics Ihre Daten verwendet. Das Browser-Add-on können Sie unter
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://tools.google.com/dlpage/gaoptout?hl=de"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://tools.google.com/dlpage/gaoptout?hl=de</a>
+              </span> runterladen und installieren. Beachten Sie bitte, dass durch dieses Add-on nur die Datenerhebung durch Google Analytics deaktiviert wird.
+            </p>
+            <p>Falls Sie grundsätzlich Cookies (unabhängig von Google Analytics) deaktivieren, löschen oder verwalten wollen, gibt es für jeden Browser eine eigene Anleitung:</p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/chrome/answer/95647?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Chrome: Cookies in Chrome löschen, aktivieren und verwalten</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Safari: Verwalten von Cookies und Websitedaten mit Safari</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Internet Explorer: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Microsoft Edge: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>
+              Google Analytics ist aktiver Teilnehmer beim EU-U.S. Privacy Shield Framework, wodurch der korrekte und sichere Datentransfer persönlicher Daten geregelt wird. Mehr Informationen dazu finden Sie auf
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"
+                  target="_blank"
+                  rel="follow noopener noreferrer"
+                >https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;tid=311170265</a>
+              </span>. Wir hoffen wir konnten Ihnen die wichtigsten Informationen rund um die Datenverarbeitung von Google Analytics näherbringen. Wenn Sie mehr über den Tracking-Dienst erfahren wollen, empfehlen wir diese beiden Links:
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="http://www.google.com/analytics/terms/de.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >http://www.google.com/analytics/terms/de.html</a>
+              </span> und
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/analytics/answer/6004245?hl=de"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://support.google.com/analytics/answer/6004245?hl=de</a>
+              </span>.
+              <br />
+              <br />
+            </p>
+            <h2>Google Analytics IP-Anonymisierung</h2>
+            <p>Wir haben auf dieser Webseite die IP-Adressen-Anonymisierung von Google Analytics implementiert.&nbsp;Diese Funktion wurde von Google entwickelt, damit diese Webseite die geltenden Datenschutzbestimmungen und Empfehlungen der lokalen Datenschutzbehörden einhalten kann, wenn diese eine Speicherung der vollständigen IP-Adresse untersagen. Die Anonymisierung bzw. Maskierung der IP findet statt, sobald die IP-Adressen im Google Analytics-Datenerfassungsnetzwerk eintreffen und bevor eine Speicherung oder Verarbeitung der Daten stattfindet.</p>
+            <p>
+              Mehr Informationen zur IP-Anonymisierung finden Sie auf&nbsp;
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/analytics/answer/2763052?hl=de"
+                  target="_blank"
+                  rel="noopener"
+                >https://support.google.com/analytics/answer/2763052?hl=de</a>
+              </span>.
+              <br />
+              <br />
+            </p>
+            <h2>Google Analytics Berichte zu demografischen Merkmalen und Interessen</h2>
+            <p>
+              Wir haben in Google Analytics die Funktionen für Werbeberichte eingeschaltet. Die Berichte zu demografischen Merkmalen und Interessen enthalten Angaben zu Alter, Geschlecht und Interessen. Damit können wir uns – ohne diese Daten einzelnen Personen zuordnen zu können – ein besseres Bild von unseren Nutzern machen. Mehr über die Werbefunktionen erfahren Sie
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/analytics/answer/3450482?hl=de_AT&amp;utm_id=ad"
+                  target="_blank"
+                  rel="noopener"
+                >auf&nbsp;https://support.google.com/analytics/answer/3450482?hl=de_AT&amp;utm_id=ad</a>
+              </span>.
+            </p>
+            <p>
+              Sie können die Nutzung der Aktivitäten und Informationen Ihres Google Kontos unter “Einstellungen für Werbung” auf
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://adssettings.google.com/authenticated"
+                >https://adssettings.google.com/authenticated</a>
+              </span> per Checkbox beenden.
+              <br />
+              <br />
+            </p>
+            <h2>Google Analytics Deaktivierungslink</h2>
+            <p>
+              Wenn Sie auf folgenden
+              <strong>Deaktivierungslink</strong> klicken, können Sie verhindern, dass Google weitere Besuche auf dieser Webseite erfasst. Achtung: Das Löschen von Cookies, die Nutzung des Inkognito/Privatmodus Ihres Browsers, oder die Nutzung eines anderen Browsers führt dazu, dass wieder Daten erhoben werden.
+            </p>
+            <p>
+              <a>
+                Google Analytics deaktivieren
+                <br />
+                <br />
+              </a>
+            </p>
+            <h2>Google Analytics Zusatz zur Datenverarbeitung</h2>
+            <p>Wir haben mit Google einen Direktkundenvertrag zur Verwendung von Google Analytics abgeschlossen, indem wir den “Zusatz zur Datenverarbeitung” in Google Analytics akzeptiert haben.</p>
+            <p>
+              Mehr über den Zusatz zur Datenverarbeitung für Google Analytics finden Sie hier:
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/analytics/answer/3379636?hl=de&amp;utm_id=ad"
+                  target="_blank"
+                  rel="noopener"
+                >https://support.google.com/analytics/answer/3379636?hl=de&amp;utm_id=ad</a>
+                <br />
+                <br />
+              </span>
+            </p>
+            <h2>Google Analytics Google-Signale Datenschutzerklärung</h2>
+            <p>Wir haben in Google Analytics die Google-Signale aktiviert. So werden die bestehenden Google-Analytics-Funktionen (Werbeberichte, Remarketing, gerätübergreifende Berichte und Berichte zu Interessen und demografische Merkmale) aktualisiert, um zusammengefasste und anonymisierte Daten von Ihnen zu erhalten, sofern Sie personalisierte Anzeigen in Ihrem Google-Konto erlaubt haben.</p>
+            <p>Das besondere daran ist, dass es sich dabei um ein Cross-Device-Tracking handelt. Das heißt Ihre Daten können geräteübergreifend analysiert werden. Durch die Aktivierung von Google-Signale werden Daten erfasst und mit dem Google-Konto verknüpft.&nbsp;Google kann dadurch zum Beispiel erkennen, wenn Sie auf unsere Webseite über ein Smartphone ein Produkt ansehen und erst später über einen Laptop das Produkt kaufen. Dank der Aktivierung von Google-Signale können wir gerätübergreifende Remarketing-Kampagnen starten, die sonst in dieser Form nicht möglich wären. Remarketing bedeutet, dass wir Ihnen auch auf anderen Webseiten unser Angebot zeigen können.</p>
+            <p>In Google Analytics werden zudem durch die Google-Signale weitere Besucherdaten wie Standort, Suchverlauf, YouTube-Verlauf und Daten über Ihre Handlungen auf unserer Webseite, erfasst. Wir erhalten dadurch von Google bessere Werbeberichte und nützlichere Angaben zu Ihren Interessen und demografischen Merkmalen. Dazu gehören Ihr Alter, welche Sprache sie sprechen, wo Sie wohnen oder welchem Geschlecht Sie angehören. Weiters kommen auch noch soziale Kriterien wie Ihr Beruf, Ihr Familienstand oder Ihr Einkommen hinzu. All diese Merkmal helfen Google Analytics Personengruppen bzw. Zielgruppen zu definieren.</p>
+            <p>
+              Die Berichte helfen uns auch Ihr Verhalten, Ihre Wünsche und Interessen besser einschätzen zu können. Dadurch können wir unsere Dienstleistungen und Produkte für Sie optimieren und anpassen. Diese Daten laufen standardmäßig nach 26 Monaten ab.&nbsp;Bitte beachten Sie, dass diese Datenerfassung nur erfolgt, wenn Sie personalisierte Werbung in Ihrem Google-Konto zugelassen haben. Es handelt sich dabei immer um zusammengefasste und anonyme Daten und nie um Daten einzelner Personen. In Ihrem Google-Konto können Sie diese Daten verwalten bzw. auch löschen.
+              <br />
+              <br />
+            </p>
+            <h2>Facebook-Pixel Datenschutzerklärung</h2>
+            <p>Wir verwenden auf unserer Webseite das Facebook-Pixel von Facebook. Dafür haben wir einen Code auf unserer Webseite implementiert. Der Facebook-Pixel ist ein Ausschnitt aus JavaScript-Code, der eine Ansammlung von Funktionen lädt, mit denen Facebook Ihre Userhandlungen verfolgen kann, sofern Sie über Facebook-Ads auf unsere Webseite gekommen sind. Wenn Sie beispielsweise ein Produkt auf unserer Webseite erwerben, wird das Facebook-Pixel ausgelöst und speichert Ihre Handlungen auf unserer Webseite in einem oder mehreren Cookies. Diese Cookies ermöglichen es Facebook Ihre Userdaten (Kundendaten wie IP-Adresse, User-ID) mit den Daten Ihres Facebook-Kontos abzugleichen. Dann löscht Facebook diese Daten wieder. Die erhobenen Daten sind für uns anonym und nicht einsehbar und werden nur im Rahmen von Werbeanzeigenschaltungen nutzbar. Wenn Sie selbst Facebook-User sind und angemeldet sind, wird der Besuch unserer Webseite automatisch Ihrem Facebook-Benutzerkonto zugeordnet.</p>
+            <p>Wir wollen unsere Dienstleistungen bzw. Produkte nur jenen Menschen zeigen, die sich auch wirklich dafür interessieren. Mithilfe von Facebook-Pixel können unsere Werbemaßnahmen besser auf Ihre Wünsche und Interessen abgestimmt werden. So bekommen Facebook-User (sofern sie personalisierte Werbung erlaubt haben) passende Werbung zu sehen. Weiters verwendet Facebook die erhobenen Daten zu Analysezwecken und eigenen Werbeanzeigen.</p>
+            <p>Im Folgenden zeigen wir Ihnen jene Cookies, die durch das Einbinden von Facebook-Pixel auf einer Testseite gesetzt wurden. Bitte beachten Sie, dass dies nur Beispiel-Cookies sind. Je nach Interaktion auf unserer Webseite werden unterschiedliche Cookies gesetzt.</p>
+            <p>
+              <strong>Name:</strong> _fbp
+              <br />
+              <strong>Wert:</strong> fb.1.1568287647279.257405483-6311170265-7
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie verwendet Facebook, um Werbeprodukte anzuzeigen.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 3 Monaten
+            </p>
+            <p>
+              <strong>Name:</strong>&nbsp;fr
+              <br />
+              <strong>Wert:</strong> 0aPf312HOS5Pboo2r..Bdeiuf…1.0.Bdeiuf.
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie wird verwendet, damit Facebook-Pixel auch ordentlich funktioniert.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 3 Monaten
+            </p>
+            <p>
+              <strong>Name:</strong> comment_author_50ae8267e2bdf1253ec1a5769f48e062311170265-3
+              <br />
+              <strong>Wert:</strong> Name des Autors
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie speichert den Text und den Namen eines Users, der beispielsweise einen Kommentar hinterlässt.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 12 Monaten
+            </p>
+            <p>
+              <strong>Name:</strong> comment_author_url_50ae8267e2bdf1253ec1a5769f48e062
+              <br />
+              <strong>Wert:</strong> https%3A%2F%2Fwww.testseite…%2F (URL des Autors)
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie speichert die URL der Website, die der User in einem Textfeld auf unserer Webseite eingibt.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 12 Monaten
+            </p>
+            <p>
+              <strong>Name:</strong> comment_author_email_50ae8267e2bdf1253ec1a5769f48e062
+              <br />
+              <strong>Wert:</strong> E-Mail-Adresse des Autors
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie speichert die E-Mail-Adresse des Users, sofern er sie auf der Website bekannt gegeben hat.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 12 Monaten
+            </p>
+            <p>
+              <strong>Anmerkung:&nbsp;</strong>Die oben genannten Cookies beziehen sich auf ein individuelles Userverhalten. Speziell bei der Verwendung von Cookies sind Veränderungen bei Facebook nie auszuschließen.
+            </p>
+            <p>
+              Sofern Sie bei Facebook angemeldet sind, können Sie Ihre Einstellungen für Werbeanzeigen unter
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen"
+                  target="_blank"
+                  rel="noopener"
+                >https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen</a>
+              </span>&nbsp;selbst verändern. Falls Sie kein Facebook-User sind, können Sie auf
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="http://www.youronlinechoices.com/de/praferenzmanagement/?tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >http://www.youronlinechoices.com/de/praferenzmanagement/</a>
+              </span>grundsätzlich Ihre nutzungsbasierte Online-Werbung verwalten. Dort haben Sie die Möglichkeit, Anbieter zu deaktivieren bzw. zu aktivieren.
+            </p>
+            <p>
+              Wenn Sie mehr über den Datenschutz von Facebook erfahren wollen, empfehlen wir Ihnen die eigenen Datenrichtlinien des Unternehmens auf
+              <a
+                href="https://www.facebook.com/policy.php"
+                target="_blank"
+                rel="noopener"
+              >
+                <span style="color: #0000ff;">https://www.facebook.com/policy.php</span>
+              </a>.
+              <br />
+              <br />
+            </p>
+            <h2>Facebook Automatischer erweiterter Abgleich Datenschutzerklärung</h2>
+            <p>
+              Wir haben im Rahmen der Facebook-Pixel-Funktion auch den automatischen erweiterten Abgleich (engl. Automatic Advanced Matching) aktiviert. Diese Funktion des Pixels ermöglicht uns, gehashte E-Mails, Namen, Geschlecht, Stadt, Bundesland, Postleitzahl und Geburtsdatum oder Telefonnummer als zusätzliche Informationen an Facebook zu senden, sofern Sie uns diese Daten zur Verfügung gestellt haben. Diese Aktivierung ermöglicht uns Werbekampagnen auf Facebook noch genauer auf Menschen, die sich für unsere Dienstleistungen oder Produkte interessieren, anzupassen.
+              <br />
+              <br />
+            </p>
+            <h2>Google Tag Manager Datenschutzerklärung</h2>
+            <p>Für unsere Website verwenden wir den Google Tag Manager des Unternehmens Google Inc. Für den europäischen Raum ist das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) für alle Google-Dienste verantwortlich. Dieser Tag Manager ist eines von vielen hilfreichen Marketing-Produkten von Google. Über den Google Tag Manager können wir Code-Abschnitte von diversen Trackingtools, die wir auf unserer Webseite verwenden, zentral einbauen und verwalten.</p>
+            <p>
+              In dieser Datenschutzerklärung wollen wir Ihnen genauer erklären was der Google Tag Manager macht, warum wir ihn verwenden und in welcher Form Daten verarbeitet werden.
+              <br />
+              <br />
+            </p>
+            <h3>Was ist der Google Tag Manager?</h3>
+            <p>
+              Der Google Tag Manager ist ein Organisationstool, mit dem wir Webseiten-Tags zentral und über eine Benutzeroberfläche einbinden und verwalten können. Als Tags bezeichnet man kleine Code-Abschnitte, die beispielsweise Ihre Aktivitäten auf unserer Webseite aufzeichnen (tracken). Dafür werden JavaScript-Code-Abschnitte in den Quelltext unserer Seite eingesetzt. Die Tags stammen oft von google-internen Produkten wie Google Ads oder Google Analytics, aber auch Tags von anderen Unternehmen können über den Manager eingebunden und verwaltet werden. Solche Tags übernehmen unterschiedliche Aufgaben. Sie können Browserdaten sammeln, Marketingtools mit Daten füttern, Buttons einbinden, Cookies setzen und auch Nutzer über mehrere Webseiten hinweg verfolgen.
+              <br />
+              <br />
+            </p>
+            <h3>Warum verwenden wir den Google Tag Manager für unserer Webseite?</h3>
+            <p>
+              Wie sagt man so schön: Organisation ist die halbe Miete! Und das betrifft natürlich auch die Pflege unserer Webseite. Um unsere Webseite für Sie und alle Menschen, die sich für unsere Produkte und Dienstleistungen interessieren, so gut wie möglich zu gestalten, brauchen wir diverse Trackingtools wie beispielsweise Google Analytics. Die erhobenen Daten dieser Tools zeigen uns, was Sie am meisten interessiert, wo wir unsere Leistungen verbessern können und welchen Menschen wir unsere Angebote noch zeigen sollten. Und damit dieses Tracking funktioniert, müssen wir entsprechende JavaScript-Codes in unsere Webseite einbinden. Grundsätzlich könnten wir jeden Code-Abschnitt der einzelnen Tracking-Tools separat in unseren Quelltext einbauen. Das erfordert allerdings relativ viel Zeit und man verliert leicht den Überblick. Darum nützen wir den Google Tag Manager. Wir können die nötigen Skripte einfach einbauen und von einem Ort aus verwalten. Zudem bietet der Google Tag Manager eine leicht zu bedienende Benutzeroberfläche und man benötigt keine Programmierkenntnisse. So schaffen wir es, Ordnung in unserem Tag-Dschungel zu halten.
+              <br />
+              <br />
+            </p>
+            <h3>Welche Daten werden vom Google Tag Manager gespeichert?</h3>
+            <p>Der Tag Manager selbst ist eine Domain, die keine Cookies setzt und keine Daten speichert. Er fungiert als bloßer „Verwalter“ der implementierten Tags. Die Daten erfassen die einzelnen Tags der unterschiedlichen Web-Analysetools. Die Daten werden im Google Tag Manager quasi zu den einzelnen Tracking-Tools durchgeschleust und nicht gespeichert.</p>
+            <p>Ganz anders sieht das allerdings mit den eingebundenen Tags der verschiedenen Web-Analysetools, wie zum Beispiel Google Analytics, aus. Je nach Analysetool werden meist mit Hilfe von Cookies verschiedene Daten über Ihr Webverhalten gesammelt, gespeichert und verarbeitet. Dafür lesen Sie bitte unsere Datenschutztexte zu den einzelnen Analyse- und Trackingtools, die wir auf unserer Webseite verwenden.</p>
+            <p>
+              In den Kontoeinstellungen des Tag Managers haben wir Google erlaubt, dass Google anonymisierte Daten von uns erhält. Dabei handelt es sich aber nur um die Verwendung und Nutzung unseres Tag Managers und nicht um Ihre Daten, die über die Code-Abschnitte gespeichert werden. Wir ermöglichen Google und anderen, ausgewählte Daten in anonymisierter Form zu erhalten. Wir stimmen somit der anonymen Weitergabe unseren Website-Daten zu. Welche zusammengefassten und anonymen Daten genau weitergeleitet werden, konnten wir – trotz langer Recherche – nicht in Erfahrung bringen. Auf jeden Fall löscht Google dabei alle Infos, die unsere Webseite identifizieren könnten. Google fasst die Daten mit Hunderten anderen anonymen Webseiten-Daten zusammen und erstellt, im Rahmen von Benchmarking-Maßnahmen, Usertrends. Bei Benchmarking werden eigene Ergebnisse mit jenen der Mitbewerber verglichen. Auf Basis der erhobenen Informationen können Prozesse optimiert werden.
+              <br />
+              <br />
+            </p>
+            <h3>Wie lange und wo werden die Daten gespeichert?</h3>
+            <p>
+              Wenn Google Daten speichert, dann werden diese Daten auf den eigenen Google-Servern gespeichert. Die Server sind auf der ganzen Welt verteilt. Die meisten befinden sich in Amerika. Unter
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.google.com/about/datacenters/inside/locations/?hl=de"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://www.google.com/about/datacenters/inside/locations/?hl=de</a>
+              </span> können Sie genau nachlesen, wo sich die Google-Server befinden.
+            </p>
+            <p>
+              Wie lange die einzelnen Tracking-Tools Daten von Ihnen speichern, entnehmen Sie unseren individuellen Datenschutztexten zu den einzelnen Tools.
+              <br />
+              <br />
+            </p>
+            <h3>Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?</h3>
+            <p>Der Google Tag Manager selbst setzt keine Cookies, sondern verwaltet Tags verschiedener Tracking-Webseiten. In unseren Datenschutztexten zu den einzelnen Tracking-Tools, finden Sie detaillierte Informationen wie Sie Ihre Daten löschen bzw. verwalten können.</p>
+            <p>
+              Google ist aktiver Teilnehmer beim EU-U.S. Privacy Shield Framework, wodurch der korrekte und sichere Datentransfer persönlicher Daten geregelt wird. Mehr Informationen dazu finden Sie auf
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&amp;tid=311170265</a>
+              </span>. Wenn Sie mehr über den Google Tag Manager erfahren wollen, empfehlen wir Ihnen die FAQs unter
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.google.com/intl/de/tagmanager/faq.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://www.google.com/intl/de/tagmanager/faq.html</a>
+              </span>.
+              <br />
+              <br />
+            </p>
+            <h2>Hotjar Datenschutzerklärung</h2>
+            <p>
+              Wir verwenden auf unserer Webseite Hotjar der Firma Hotjar Limited (Level 2, St Julian’s Business Centre, 3, Elia Zammit Street, St Julian’s STJ 1000, Malta), um Besucherdaten statistisch auszuwerten. Hotjar ist ein Dienst, der das Verhalten und das Feedback von Ihnen als Nutzer auf unserer Webseite durch eine Kombination von Analyse- und Feedback-Tools analysiert. Wir erhalten von Hotjar Berichte und visuelle Darstellungen, die uns zeigen wo und wie Sie sich auf unserer Seite “bewegen”. Personenbezogenen Daten werden automatisch anonymisiert und erreichen niemals die Server von Hotjar. Das heißt Sie werden als Webseitenbenutzer nicht persönlich identifiziert und wir lernen dennoch vieles über Ihr Userverhalten.
+              <br />
+              <br />
+            </p>
+            <h3>Was ist Hotjar?</h3>
+            <p>
+              Wie im oberen Abschnitt bereits erwähnt, hilft uns&nbsp;Hotjar das Verhalten unserer Seitenbesucher zu analysieren.&nbsp;Zu diesen Tools, die Hotjar anbietet,&nbsp; gehören Heatmaps, Conversion Funnels, Visitor Recording, Incoming Feedback, Feedback Polls und Surveys (mehr Informationen darüber erhalten Sie unter
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.hotjar.com?tid=311170265/"
+                  target="_blank"
+                  rel="noopener"
+                >https://www.hotjar.com/</a>
+              </span>). Damit hilft uns Hotjar, Ihnen eine bessere Nutzererfahrung und ein besseres Service anzubieten. Es bietet somit einerseits eine gute Analyse über das Onlineverhalten, andererseits erhalten wir auch ein gutes Feedback über die Qualität unserer Webseite. Denn neben all den analysetechnischen Aspekten wollen wir natürlich auch einfach Ihre Meinung über unsere Webseite wissen. Und mit dem Feedbacktool ist genau das möglich.
+              <br />
+              <br />
+            </p>
+            <h3>Warum verwenden wir Hotjar auf unserer Webseite?</h3>
+            <p>
+              In den letzten Jahren nahm die Bedeutung von User Experience (also Benutzererfahrung) auf Webseiten stark zu. Und das auch aus gutem Grund. Eine Webseite soll so aufgebaut sein, dass Sie sich als Besucher wohl fühlen und sich einfach zurechtfinden. Wir können dank der Analyse-Tools und des Feedback-Tools von Hotjar unsere Webseite und unser Angebot attraktiver gestalten. Für uns besonders wertvoll erweisen sich die Heatmaps von Hotjar. Bei Heatmaps handelt es sich um eine Darstellungsform für die Visualisierung von Daten. Durch die Heatmaps von Hotjar sehen wir beispielsweise sehr genau, was Sie gerne anklicken, antippen und wohin Sie scrollen.
+              <br />
+              <br />
+            </p>
+            <h3>Welche Daten werden von Hotjar gespeichert?</h3>
+            <p>Während Sie durch unsere Webseite surfen, sammelt Hotjar automatisch Informationen über Ihr Userverhalten. Um diese Informationen sammeln zu können, haben wir auf unserer Webseite einen eigenen Tracking-Code eingebaut. Folgende Daten können über Ihren Computer beziehungsweise Ihren Browser gesammelt werden:</p>
+            <ul>
+              <li>IP-Adresse Ihres Computers (wird in einem anonymen Format gesammelt und gespeichert)</li>
+              <li>Bildschirmgröße</li>
+              <li>Browserinfos (welcher Browser, welche Version usw.)</li>
+              <li>Ihr Standort (aber nur das Land)</li>
+              <li>Ihre bevorzugte Spracheinstellung</li>
+              <li>Besuchte Webseiten (Unterseiten)</li>
+              <li>Datum und Uhrzeit des Zugriffs auf eine unserer Unterseiten (Webseiten)</li>
+            </ul>
+            <p>Zudem speichern Cookies auch Daten, die auf Ihrem Computer (meist in Ihrem Browser) platziert werden. Darin werden keine personenbezogenen Daten gesammelt. Grundsätzlich gibt Hotjar keine gesammelten Daten an Dritte weiter. Hotjar weist allerdings ausdrücklich darauf hin, dass es manchmal notwendig ist, Daten mit Amazon Web Services zu teilen. Dann werden Teile Ihrer Informationen auf deren Servern gespeichert. Amazon ist aber durch eine Geheimhaltungspflicht gebunden, diese Daten nicht preiszugeben.</p>
+            <p>Auf die gespeicherten Informationen haben nur eine begrenzte Anzahl an Personen (Mitarbeiter von Hotjar) Zugriff. Die Hotjar-Server sind durch Firewalls und IP-Beschränkungen (Zugriff nur genehmigter IP-Adressen) geschützt. Firewalls sind Sicherheitssysteme, die Computer vor unerwünschten Netzwerkzugriffen schützen. Sie sollen als Barriere zwischen dem sicheren internen Netzwerk von Hotjar und dem Internet dienen. Weiters verwendet Hotjar für Ihre Dienste auch Drittunternehmen, wie etwa Google Analytics oder Optimizely. Diese Firmen können auch Informationen, die Ihr Browser an unsere Webseite sendet, speichern.</p>
+            <p>
+              Folgende Cookies werden von Hotjar verwendet. Da wir uns unter anderem auf die Cookie-Liste aus der Datenschutzerklärung von Hotjar unter&nbsp;
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookies"
+                  target="_blank"
+                  rel="follow noopener"
+                >https://www.hotjar.com/legal/policies/cookie-information</a>
+              </span> beziehen, liegt nicht bei jedem Cookie ein exemplarischer Wert vor. Die Liste zeigt Beispiele von verwendeten Hotjar-Cookies und erhebt keinen Anspruch auf Vollständigkeit.
+            </p>
+            <p>
+              <strong>Name</strong>:&nbsp;ajs_anonymous_id
+              <br />
+              <strong>Wert:&nbsp;</strong>%2258832463-7cee-48ee-b346-a195f18b06c3%22311170265-5
+              <br />
+              <strong>Verwendungszweck:</strong>&nbsp;Das Cookie wird gewöhnlich für Analysezwecke verwendet und hilft beim Zählen von Besuchern unserer Website, indem es verfolgt, ob Sie schon mal auf dieser Seite waren.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach einem Jahr
+            </p>
+            <p>
+              <strong>Name</strong>:&nbsp;ajs_group_id
+              <br />
+              <strong>Wert:&nbsp;</strong>0
+              <br />
+              <strong>Verwendungszweck:&nbsp;</strong>Dieses Cookie sammelt Daten über das User-Verhalten. Diese Daten können dann, basierend auf Gemeinsamkeiten der Websitebesucher, einer bestimmten Besuchergruppe zugeordnet werden.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach einem Jahr
+            </p>
+            <p>
+              <strong>Name</strong>: _hjid
+              <br />
+              <strong>Wert:&nbsp;</strong>699ffb1c-4bfb-483f-bde1-22cfa0b59c6c
+              <br />
+              <strong>Verwendungszweck:&nbsp;</strong>Das Cookie wird verwendet, um eine Hotjar-User-ID beizubehalten, die für die Website im Browser eindeutig ist. So kann das Userverhalten bei den nächsten Besuchen derselben User-ID zugeordnet werden.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach einem Jahr
+            </p>
+            <p>
+              <strong>Name:</strong> _hjMinimizedPolls
+              <br />
+              <strong>Wert:</strong>&nbsp;462568311170265-8
+              <br />
+              <strong>Verwendungszweck:</strong> Immer, wenn Sie ein Feedback Poll Widget minimieren, setzt Hotjar dieses Cookie. Das Cookie stellt sicher, dass das Widget auch wirklich minimiert bleibt, wenn Sie auf unseren Seiten surfen.
+              <br />
+              <strong>Ablaufdatum:</strong> nach einem Jahr
+            </p>
+            <p>
+              <strong>Name:</strong> _hjIncludedInSample
+              <br />
+              <strong>Wert:</strong> 1
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Session-Cookie wird gesetzt, um Hotjar darüber zu informieren, ob Sie Teil der ausgewählten Personen (Sample) sind, die zum Erzeugen von Trichtern (Funnels) herangezogen werden.
+              <br />
+              <strong>Ablaufdatum:</strong> nach einem Jahr
+            </p>
+            <p>
+              <strong>Name</strong>: _hjClosedSurveyInvites
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie wird gesetzt, wenn Sie über ein Popup-Fenster eine Einladung zu einer Feedback-Umfrage sehen. Das Cookie wird verwendet, um sicherzustellen, dass diese Einladung für Sie nur einmal erscheint.
+              <br />
+              <strong>Ablaufdatum:</strong> nach einem Jahr
+            </p>
+            <p>
+              <strong>Name:</strong> _hjDonePolls
+              <br />
+              <strong>Verwendungszweck:</strong> Sobald Sie eine Feedback- „Fragerunde“ mit dem sogenannten Feedback Poll Widget beenden, wird dieses Cookie in Ihrem Browser gesetzt. Damit verhindert Hotjar, dass Sie in Zukunft wieder dieselben Umfragen erhalten.
+              <br />
+              <strong>Ablaufdatum:</strong> nach einem Jahr
+            </p>
+            <p>
+              <strong>Name:</strong> _hjDoneTestersWidgets
+              <strong>
+                <br />
+              </strong>
+              <strong>Verwendungszweck:</strong> Dieses Cookie wird verwendet, sobald Sie Ihre Daten im „Recruit User Tester Widget“ angeben. Mit diesem Widget wollen wir Sie als Tester anheuern. Damit dieses Formular nicht immer wieder erscheint, wird das Cookie verwendet.
+              <br />
+              <strong>Ablaufdatum:</strong> nach einem Jahr
+            </p>
+            <p>
+              <strong>Name:</strong> _hjMinimizedTestersWidgets
+              <br />
+              <strong>Verwendungszweck:</strong> Damit der „Recruit User Tester“ auch wirklich auf all unseren Seite minimiert bleibt, sobald Sie Ihn einmal minimiert haben, wird dieses Cookie gesetzt.
+              <br />
+              <strong>Ablaufdatum:</strong> nach einem Jahr
+            </p>
+            <p>
+              <strong>Name:</strong> _hjShownFeedbackMessage
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie wird gesetzt, wenn Sie das eingehende Feedback minimiert oder ergänzt haben. Dies geschieht, damit das eingehende Feedback sofort als minimiert geladen wird, wenn Sie zu einer anderen Seite navigieren, auf der es angezeigt werden soll.
+              <br />
+              <strong>Ablaufdatum:</strong> nach einem Jahr
+              <br />
+              <br />
+            </p>
+            <h3>Wie lange und wo werden die Daten gespeichert?</h3>
+            <p>
+              Wir haben einen Tracking-Code auf unserer Webseite eingebaut, der an die Hotjar-Server in Irland (EU) übertragen wird. Dieser Tracking-Code kontaktiert die Server von Hotjar und sendet ein Skript an Ihren Computer oder Ihr Endgerät, mit dem Sie auf unsere Seite zugreifen. Das Skript erfasst bestimmte Daten in Bezug auf Ihre Interaktion mit unserer Webseite. Diese Daten werden dann zur Verarbeitung an die Server von Hotjar gesendet. Hotjar hat sich selbst eine 365-Tage-Datenspeicherungsfrist auferlegt. Das heißt alle Daten, die Hotjar gesammelt hat und die älter als ein Jahr sind, werden automatisch wieder gelöscht.
+              <br />
+              <br />
+            </p>
+            <h3>Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?</h3>
+            <p>
+              Hotjar speichert für die Analyse keine personenbezogenen Daten von Ihnen. Das Unternehmen wirbt sogar mit dem Slogan „We track behavior, not individuals“ (also „Wir tracken Userverhalten, aber keine identifizierbaren, individuellen Daten). Sie haben auch immer die Möglichkeit die Erhebung Ihrer Daten zu unterbinden. Dafür müssen Sie nur auf die „
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.hotjar.com/legal/compliance/opt-out"
+                  target="_blank"
+                  rel="noopener"
+                >Opt-out-Seite</a>
+              </span>“&nbsp;gehen und auf „Hotjar deaktivieren“ klicken. Bitte beachten Sie, dass das Löschen von Cookies, die Nutzung des Privatmodus Ihres Browsers oder die Nutzung eines anderen Browsers dazu führt, Daten wieder zu erheben. Weiters können Sie auch in Ihrem Browser den „Do Not Track“-Button aktivieren. Im Browser Chrome beispielsweise müssen Sie dafür rechts oben auf die drei Balken klicken und auf „Einstellungen“ gehen. Dort finden Sie im Abschnitt „Datenschutz“ die Option „Mit Browserzugriffen eine “Do Not Track”-Anforderung senden”. Jetzt aktivieren Sie nur noch diese Schaltfläche und schon werden keinen Daten von Hotjar erhoben.
+            </p>
+            <p>
+              Mehr Details zur Datenschutzrichtlinie und welche Daten auf welche Art durch Hotjar erfasst werden finden Sie auf
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.hotjar.com/legal/policies/privacy?tid=311170265"
+                  target="_blank"
+                  rel="noopener"
+                >https://www.hotjar.com/legal/policies/privacy?tid=311170265</a>
+              </span>.
+              <br />
+              <br />
+            </p>
+            <h2>Newsletter Datenschutzerklärung</h2>
+            <p>
+              <span>Wenn Sie sich für unseren Newsletter eintragen übermitteln Sie die oben genannten persönlichen Daten und geben uns das Recht Sie per E-Mail zu kontaktieren. Die im Rahmen der Anmeldung zum Newsletter gespeicherten Daten nutzen wir ausschließlich für unseren Newsletter und geben diese nicht weiter.</span>
+            </p>
+            <p>
+              <span>
+                Sollten Sie sich vom Newsletter abmelden – Sie finden den Link dafür in jedem Newsletter ganz unten – dann löschen wir alle Daten die mit der Anmeldung zum Newsletter gespeichert wurden.
+                <br />
+                <br />
+              </span>
+            </p>
+            <h2>MailChimp Datenschutzerklärung</h2>
+            <p>
+              Wie viele andere Webseiten verwenden auch wir auf unsere Website die Dienste des Newsletter-Unternehmens MailChimp. Der Betreiber von MailChimp ist das Unternehmen The Rocket Science Group, LLC, 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308 USA. Dank MailChimp können wir Ihnen interessante Neuigkeiten sehr einfach per Newsletter zukommen lassen. Mit MailChimp müssen wir nichts installieren und können trotzdem aus einem Pool an wirklich nützlichen Funktionen schöpfen. Im Folgenden gehen wir näher auf dieses E-Mail-Marketing-Service ein und informieren Sie über die wichtigsten datenschutzrelevanten Aspekte.
+              <br />
+              <br />
+            </p>
+            <h3>Was ist MailChimp?</h3>
+            <p>MailChimp ist ein cloudbasiertes Newsletter-Management-Service. „Cloudbasiert“ heißt, dass wir MailChimp nicht auf unserem eigenen Rechner bzw. Server installieren müssen. Wir nutzen den Dienst stattdessen über eine IT-Infrastruktur – die über das Internet verfügbar ist – auf einem externen Server. Diese Art eine Software zu nutzen, wird auch SaaS (Software as a Service) genannt.</p>
+            <p>
+              Mit MailChimp können wir aus einer breiten Palette an verschiedenen E-Mail-Typen auswählen. Abhängig davon, was wir mit unserem Newsletter erreichen wollen, können wir Einzel-Kampagnen, regelmäßige Kampagnen, Autoresponder (automatische E-Mail), A/B Tests, RSS-Kampagnen (Aussendung in vordefinierter Zeit und Häufigkeit) und Follow-Up Kampagnen durchführen.
+              <br />
+              <br />
+            </p>
+            <h3>Warum verwenden wir MailChimp auf unserer Webseite?</h3>
+            <p>Grundsätzlich nutzen wir einen Newsletter-Dienst, damit wir mit Ihnen in Kontakt bleiben. Wir wollen Ihnen erzählen was es bei uns Neues gibt oder welche attraktiven Angebote wir gerade in unserem Programm haben. Für unsere Marketing-Maßnahmen suchen wir immer die einfachsten und besten Lösungen. Und aus diesem Grund haben wir uns auch für das Newsletter-Management-Service von Mailchimp entschieden. Obwohl die Software sehr einfach zu bedienen ist, bietet sie eine große Anzahl an hilfreichen Features. So können wir in nur kurzer Zeit interessante und schöne Newsletter gestalten. Durch die angebotenen Designvorlagen gestalten wir jeden Newsletter ganz individuell und dank des „Responsive Design“ werden unsere Inhalte auch auf Ihrem Smartphone (oder einem anderen mobilen Endgeräten) leserlich und schön angezeigt.</p>
+            <p>Durch Tools wie beispielsweise den A/B-Test oder den umfangreichen Analysemöglichkeiten, sehen wir sehr schnell, wie unsere Newsletter bei Ihnen ankommen. So können wir gegebenenfalls reagieren und unser Angebot oder unsere Dienstleistungen verbessern.</p>
+            <p>
+              Ein weiterer Vorteil ist das „Cloudsystem“ von Mailchimp. Die Daten werden nicht direkt auf unserem Server abgelegt und verarbeitet. Wir können die Daten von externen Servern abrufen und schonen auf diese Weise unseren Speicherplatz. Zudem wird der Pflegeaufwand deutlich geringer.
+              <br />
+              <br />
+            </p>
+            <h3>Welche Daten werden von MailChimp gespeichert?</h3>
+            <p>Die Rocket Science Group LLC (MailChimp) unterhält Online-Plattformen, die es uns ermöglichen, mit Ihnen (sofern Sie unseren Newsletter abonniert haben) in Kontakt zu treten. Wenn Sie über unsere Website Abonnent unseres Newsletters werden, bestätigen Sie per E-Mail die Mitgliedschaft in einer E-Mail-Liste von MailChimp. Damit MailChimp auch nachweisen kann, dass Sie sich in den „Listenprovider“ eingetragen haben, wird das Datum der Eintragung und Ihre IP-Adresse gespeichert. Weiters speichert MailChimp Ihre E-Mail-Adresse, Ihren Namen, die physische Adresse und demografische Informationen, wie Sprache oder Standort.</p>
+            <p>Diese Informationen werden verwendet, um Ihnen E-Mails zu senden und bestimmte anderer MailChimp-Funktionen (wie z.B. Auswertung der Newsletter) zu ermöglichen.</p>
+            <p>MailChimp teilt Informationen auch mit Drittanbieter, um bessere Dienste bereitzustellen. Einige Daten teilt MailChimp auch mit Werbepartnern von Drittanbietern, um die Interessen und Anliegen seiner Kunden besser zu verstehen, damit relevantere Inhalte und zielgerichtete Werbung bereitgestellt werden kann.</p>
+            <p>Durch sogenannte „Web Beacons“ (das sind kleine Grafiken in HTML-E-Mails) kann MailChimp feststellen, ob die E-Mail angekommen ist, ob sie geöffnet wurde und ob Links angeklickt wurden. All diese Informationen werden auf den MailChimp-Servern gespeichert. Dadurch erhalten wir statistische Auswertungen und sehen genau, wie gut unser Newsletter bei Ihnen ankam. Auf diese Weise können wir unser Angebot viel besser an Ihre Wünsche anpassen und unser Service verbessern.</p>
+            <p>MailChimp darf zudem diese Daten auch zur Verbesserung des eigenen Service-Dienstes verwenden. Dadurch kann beispielsweise der Versand technisch optimiert werden oder der Standort (das Land) der Empfänger bestimmt werden.</p>
+            <p>Die folgenden Cookies können von Mailchimp gesetzt werden. Dabei handelt es sich nicht um eine vollständige Cookie-Liste, sondern ist vielmehr eine exemplarische Auswahl:</p>
+            <p>
+              <strong>Name</strong>:&nbsp;AVESTA_ENVIRONMENT
+              <br />
+              <strong>Wert:&nbsp;</strong>Prod
+              <br />
+              <strong>Verwendungszweck:</strong> Dieses Cookie ist notwendig, um die Mailchimp-Dienste zur Verfügung zu stellen. Es wird immer gesetzt, wenn ein User sich für eine Newsletter-Mailing-Liste registriert.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach Sitzungsende
+            </p>
+            <p>
+              <strong>Name</strong>: ak_bmsc
+              <br />
+              <strong>Wert:&nbsp;</strong>F1766FA98C9BB9DE4A39F70A9E5EEAB55F6517348A7000001311170265-3
+              <br />
+              <strong>Verwendungszweck:</strong>&nbsp;Das Cookie wird verwendet, um einen Menschen von einem Bot unterscheiden zu können. So können sichere Berichte über die Nutzung einer Website erstellt werden.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach 2 Stunden
+            </p>
+            <p>
+              <strong>Name</strong>: bm_sv
+              <br />
+              <strong>Wert:&nbsp;</strong>A5A322305B4401C2451FC22FFF547486~FEsKGvX8eovCwTeFTzb8//I3ak2Au…
+              <br />
+              <strong>Verwendungszweck:</strong>&nbsp;Das Cookie ist von MasterPass Digital Wallet (ein MasterCard-Dienst) und wird verwendet, um einem Besucher einen virtuellen Zahlungsvorgang sicher und einfach anbieten zu können. Dafür wird der User auf der Website anonym identifiziert.
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach 2 Stunden
+            </p>
+            <p>
+              <strong>Name</strong>: _abck
+              <br />
+              <strong>Wert:&nbsp;</strong>8D545C8CCA4C3A50579014C449B045311170265-9
+              <br />
+              <strong>Verwendungszweck:</strong>&nbsp;Wir konnten über den Zweck dieses Cookies keine näheren Informationen in Erfahrung bringen
+              <br />
+              <strong>Ablaufdatum:</strong>&nbsp;nach einem Jahr
+            </p>
+            <p>
+              Manchmal kann es vorkommen, dass Sie unseren Newsletter zur besseren Darstellung über einen angegebenen Link öffnen. Das ist zum Beispiel der Fall, wenn Ihr E-Mail-Programm nicht funktioniert oder der Newsletter nicht ordnungsgemäß anzeigt wird. Der Newsletter wir dann über eine Website von MailChimp angezeigt. MailChimp verwendet auf seinen eigenen Webseiten auch Cookies (kleine Text-Dateien, die Daten auf Ihrem Browser speichern). Dabei können personenbezogenen Daten durch MailChimp und dessen Partner (z.B. Google Analytics) verarbeitet werden. Diese Datenerhebung liegt in der Verantwortung von MailChimp und wir haben darauf keinen Einfluss. Im „Cookie Statement“ von MailChimp (unter:
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://mailchimp.com/legal/cookies/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://mailchimp.com/legal/cookies/</a>
+              </span>) erfahren Sie genau, wie und warum das Unternehmen Cookies verwendet.
+              <br />
+              <br />
+            </p>
+            <h3>Wie lange und wo werden die Daten gespeichert?</h3>
+            <p>Da MailChimp ein amerikanisches Unternehmen ist, werden alle gesammelten Daten auch auf amerikanischen Servern gespeichert.</p>
+            <p>
+              Grundsätzlich bleiben die Daten auf den Servern von Mailchimp dauerhaft gespeichert und werden erst gelöscht, wenn eine Aufforderung von Ihnen erfolgt. Sie können Ihren Kontakt bei uns löschen lassen. Das entfernt für uns dauerhaft all Ihre persönlichen Daten und anonymisiert Sie in den Mailchimp-Berichten. Sie können allerdings auch direkt bei MailChimp die Löschung Ihrer Daten anfordern. Dann werden dort all Ihre Daten entfernt und wir bekommen eine Benachrichtigung von MailChimp. Nachdem wir die E-Mail erhalten haben, haben wir 30 Tage Zeit, um Ihren Kontakt von allen verbundenen Integrationen zu löschen.
+              <br />
+              <br />
+            </p>
+            <h3>Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?</h3>
+            <p>Sie können Ihre Zustimmung für den Erhalt unseres Newsletters jederzeit innerhalb der empfangenen E-Mail per Klick auf den Link im unteren Bereich entziehen. Wenn Sie sich mit einem Klick auf den Abmeldelink abgemeldet haben, werden Ihre Daten bei MailChimp gelöscht.</p>
+            <p>Falls Sie über einen Link in unserem Newsletter auf eine Website von MailChimp gelangen und Cookies in Ihrem Browser gesetzt werden, können Sie diese Cookies jederzeit löschen oder deaktivieren.</p>
+            <p>Je nach Browser funktioniert das Deaktivieren bzw. Löschen etwas anders. Die folgenden Anleitungen zeigen, wie Sie Cookies in Ihrem Browser verwalten:</p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/chrome/answer/95647?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Chrome: Cookies in Chrome löschen, aktivieren und verwalten</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Safari: Verwalten von Cookies und Websitedaten mit Safari</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Internet Explorer: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Microsoft Edge: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie es erlauben oder nicht.</p>
+            <p>
+              MailChimp ist aktiver Teilnehmer beim EU-U.S. Privacy Shield Framework wodurch der korrekte und sichere Datentransfer persönlicher Daten geregelt wird. Mehr Informationen dazu finden Sie auf
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://www.privacyshield.gov/participant?id=a2zt0000000TO6hAAG&amp;tid=311170265</a>
+              </span>. Mehr über den Einsatz von Cookies bei MailChimp erfahren Sie auf&nbsp;
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://mailchimp.com/legal/cookies/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://mailchimp.com/legal/cookies/</a>
+              </span>, Informationen zum Datenschutz bei MailChimp (Privacy) können Sie auf&nbsp;
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://mailchimp.com/legal/privacy/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://mailchimp.com/legal/privacy/</a>
+              </span> nachlesen.
+              <br />
+              <br />
+            </p>
+            <h2>MailChimp Auftragsdatenverarbeitung Vertrag</h2>
+            <p>Wir haben mit MailChimp einen Vertrag über die Auftragsdatenverarbeitung (Data Processing Addendum) abgeschlossen. Dieser Vertrag dient zur Absicherung Ihrer persönlichen Daten und stellt sicher, dass sich MailChimp an die geltenden Datenschutzbestimmungen hält und Ihre persönlichen Daten nicht an Dritte weitergibt.</p>
+            <p>
+              Mehr Informationen zu diesem Vertrag finden Sie auf&nbsp;
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://mailchimp.com/legal/data-processing-addendum/"
+                >https://mailchimp.com/legal/data-processing-addendum/</a>.
+                <br />
+                <br />
+              </span>
+            </p>
+            <h2>Google Ads (Google AdWords) Conversion-Tracking Datenschutzerklärung</h2>
+            <p>
+              Wir verwenden als Online-Marketing-Maßnahme Google Ads (früher Google AdWords), um unsere Produkte und Dienstleistungen zu bewerben. So wollen wir im Internet mehr Menschen auf die hohe Qualität unserer Angebote aufmerksam machen. Im Rahmen unserer Werbe-Maßnahmen durch Google Ads verwenden wir auf unserer Website das Conversion-Tracking der Firma Google Inc. In Europa ist allerdings für alle Google-Dienste das Unternehmen Google Ireland Limited (Gordon House, Barrow Street Dublin 4, Irland) verantwortlich. Mithilfe dieses kostenlosen Tracking-Tools können wir unser Werbeangebot an Ihre Interessen und Bedürfnisse besser anpassen. Im Folgenden Artikel wollen wir genauer darauf eingehen, warum wir Conversion-Tracking benutzen, welche Daten dabei gespeichert werden und wie Sie diese Datenspeicherung verhindern.
+              <br />
+              <br />
+            </p>
+            <h3>Was ist Google Ads Conversion-Tracking?</h3>
+            <p>Google Ads (früher Google AdWords) ist das hauseigene Online-Werbesystem der Firma Google Inc. Wir sind von der Qualität unseres Angebots überzeugt und wollen, dass so viele Menschen wie möglich unsere Webseite kennenlernen. Im Onlinebereich bietet Google Ads dafür die beste Plattform. Natürlich wollen wir auch einen genauen Überblick über den Kosten-Nutzen-Faktor unsere Werbeaktionen gewinnen. Darum verwenden wir das Conversion-Tracking-Tool von Google Ads.</p>
+            <p>
+              Doch was ist eine Conversion eigentlich? Eine Conversion entsteht, wenn Sie von einem rein interessierten Webseitenbesucher zu einem handelnden Besucher werden. Dies passiert immer dann, wenn Sie auf unsere Anzeige klicken und im Anschluss eine andere Aktion ausführen, wie zum Beispiel unsere Webseite besuchen.&nbsp;Mit dem Conversion-Tracking-Tool von Google erfassen wir, was nach einem Klick eines Users auf unsere Google Ads-Anzeige geschieht. Zum Beispiel können wir so sehen, ob Produkte gekauft werden, Dienstleistungen in Anspruch genommen werden oder ob sich User für unseren Newsletter angemeldet haben.
+              <br />
+              <br />
+            </p>
+            <h3>Warum verwenden wir Google Ads Conversion-Tracking auf unserer Webseite?</h3>
+            <p>
+              Wir setzen Google Ads ein, um auch auf anderen Webseiten auf unser Angebot aufmerksam zu machen. Ziel ist es, dass unsere Werbekampagnen wirklich auch nur jene Menschen erreichen, die sich für unsere Angebote interessieren. Mit dem Conversion-Tracking Tool sehen wir welche Keywords, Anzeigen, Anzeigengruppen und Kampagnen zu den gewünschten Kundenaktionen führen.&nbsp;Wir sehen wie viele Kunden mit unseren Anzeigen auf einem Gerät interagieren und dann eine Conversion durchführen. Durch diese Daten können wir unseren&nbsp;Kosten-Nutzen-Faktor berechnen,&nbsp;den Erfolg einzelner Werbemaßnahmen messen und folglich unsere Online-Marketing-Maßnahmen optimieren.&nbsp;Wir können weiters mithilfe der gewonnenen Daten unsere Webseite für Sie interessanter gestalten und unser Werbeangebot noch individueller an Ihre Bedürfnisse anpassen.
+              <br />
+              <br />
+            </p>
+            <h3>Welche Daten werden bei Google Ads Conversion-Tracking gespeichert?</h3>
+            <p>Wir haben ein Conversion-Tracking-Tag oder Code-Snippet auf unserer Webseite eingebunden, um gewisse User-Aktionen besser analysieren zu können. Wenn Sie nun eine unserer Google Ads-Anzeigen anklicken, wird auf Ihrem Computer (meist im Browser) oder Mobilgerät das Cookie „Conversion“ von einer Google-Domain gespeichert. Cookies sind kleine Textdateien, die Informationen auf Ihrem Computer speichern.</p>
+            <p>Hier die Daten der wichtigsten Cookies für das Conversion-Tracking von Google:</p>
+            <p>
+              <strong>Name:</strong> Conversion
+              <br />
+              <strong>Wert:</strong>&nbsp;EhMI_aySuoyv4gIVled3Ch0llweVGAEgt-mr6aXd7dYlSAGQ311170265-3
+              <br />
+              <strong>Verwendungszweck:</strong>Dieses Cookie speichert jede Conversion, die Sie auf unserer Seite machen, nachdem Sie über eine Google Ad zu uns gekommen sind.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 3 Monaten
+            </p>
+            <p>
+              <strong>Name:</strong> _gac
+              <br />
+              <strong>Wert:</strong>&nbsp;1.1558695989.EAIaIQobChMIiOmEgYO04gIVj5AYCh2CBAPrEAAYASAAEgIYQfD_BwE
+              <br />
+              <strong>Verwendungszweck:</strong>&nbsp;Dies ist ein klassisches Google Analytics-Cookie und dient dem Erfassen verschiedener Handlungen auf unserer Webseite.
+              <br />
+              <strong>Ablaufdatum:</strong> nach 3 Monaten
+            </p>
+            <p>
+              <strong>Anmerkung:</strong> Das Cookie _gac scheint nur in Verbindung mit Google Analytics auf. Die oben angeführte Aufzählung hat keinen Anspruch auf Vollständigkeit, da Google für analytische Auswertung immer wieder auch andere Cookies verwendet.
+            </p>
+            <p>
+              Sobald Sie eine Aktion auf unserer Webseite abschließen, erkennt Google das Cookie und speichert Ihre Handlung als sogenannte Conversion. Solange Sie auf unserer Webseite surfen und das Cookie noch nicht abgelaufen ist, erkennen wir und Google, dass Sie über unsere Google-Ads-Anzeige zu uns gefunden haben. Das Cookie wird ausgelesen und mit den Conversion-Daten zurück an Google Ads gesendet. Es ist auch möglich, dass noch andere Cookies zur Messung von Conversions verwendet werden. Das Conversion-Tracking von Google Ads kann mithilfe von Google Analytics noch verfeinert und verbessert werden. Bei Anzeigen, die Google an verschiedenen Orten im Web anzeigt, werden unter unserer Domain möglicherweise Cookies mit dem Namen “__gads” oder “_gac” gesetzt. Seit September 2017 werden diverse Kampagneninformationen von analytics.js mit dem _gac-Cookie gespeichert. Das Cookie speichert diese Daten, sobald Sie eine unserer Seiten aufrufen, für die die automatische Tag-Kennzeichnung von Google Ads eingerichtet wurde. Im Gegensatz zu Cookies, die für Google-Domains gesetzt werden, kann Google diese Conversion-Cookies nur lesen, wenn Sie sich auf unserer Webseite befinden. Wir erheben und erhalten keine personenbezogenen Daten. Wir bekommen von Google einen Bericht mit statistischen Auswertungen. So erfahren wir beispielsweise die Gesamtanzahl der User, die unsere Anzeige angeklickt haben und wir sehen, welche Werbemaßnahmen gut ankamen.
+              <br />
+              <br />
+            </p>
+            <h3>Wie lange und wo werden die Daten gespeichert?</h3>
+            <p>
+              An dieser Stelle wollen wir darauf hinweisen, dass wir keinen Einfluss darauf haben, wie Google die erhobenen Daten weiterverwendet. Laut Google werden die Daten verschlüsselt und auf sicheren Servern gespeichert. In den meisten Fällen laufen Conversion-Cookies nach 30 Tagen ab und übermitteln keine personenbezogenen Daten. Die Cookies mit dem Namen „Conversion“ und „_gac“ (das in Verbindung mit Google Analytics zum Einsatz kommt) haben ein Ablaufdatum von 3 Monaten.
+              <br />
+              <br />
+            </p>
+            <h3>Wie kann ich meine Daten löschen bzw. die Datenspeicherung verhindern?</h3>
+            <p>Sie haben die Möglichkeit am Conversion-Tracking von Google Ads nicht teilzunehmen. Wenn Sie das Cookie des Google Conversion-Tracking über Ihren Browser deaktivieren, blockieren Sie das Conversion-Tracking. In diesem Fall werden Sie in der Statistik des Tracking-Tools nicht berücksichtigt. Sie können die Cookie-Einstellungen in Ihrem Browser jederzeit verändern. Bei jedem Browser funktioniert dies etwas anders. Hier finden Sie die Anleitung, wie Sie Cookies in Ihrem Browser verwalten:</p>
+            <p>
+              <a
+                href="https://support.google.com/chrome/answer/95647?tid=311170265"
+                target="_blank"
+                rel="noopener noreferrer"
+              >Chrome: Cookies in Chrome löschen, aktivieren und verwalten</a>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.apple.com/de-at/guide/safari/sfri11471/mac?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Safari: Verwalten von Cookies und Websitedaten mit Safari</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Firefox: Cookies löschen, um Daten zu entfernen, die Websites auf Ihrem Computer abgelegt haben</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/17442/windows-internet-explorer-delete-manage-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Internet Explorer: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>
+              <span style="color: #0000ff;">
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.microsoft.com/de-at/help/4027947/windows-delete-cookies?tid=311170265"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >Microsoft Edge: Löschen und Verwalten von Cookies</a>
+              </span>
+            </p>
+            <p>
+              Falls Sie grundsätzlich keine Cookies haben wollen, können Sie Ihren Browser so einrichten, dass er Sie immer informiert, wenn ein Cookie gesetzt werden soll. So können Sie bei jedem einzelnen Cookie entscheiden, ob Sie das Cookie erlauben oder nicht. Durch das Herunterladen und Installieren dieses Browser-Plug-ins auf
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://support.google.com/ads/answer/7395996"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://support.google.com/ads/answer/7395996</a>
+              </span> werden ebenfalls alle „Werbecookies“ deaktiviert. Bedenken Sie, dass Sie durch das Deaktivieren dieser Cookies nicht die Werbeanzeigen verhindern, sondern nur die personalisierte Werbung.
+            </p>
+            <p>
+              Durch die Zertifizierung für das amerikanische-europäische Datenschutzübereinkommen “Privacy Shield”, muss der amerikanische Konzern Google LLC die in der EU geltenden Datenschutzgesetze einhalten. Wenn Sie Näheres über den Datenschutz bei Google erfahren möchten, empfehlen wir die allgemeine Datenschutzerklärung von Google:
+              <span
+                style="color: #0000ff;"
+              >
+                <a
+                  style="color: #0000ff;"
+                  href="https://policies.google.com/privacy?hl=de"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >https://policies.google.com/privacy?hl=de</a>
+              </span>.
+            </p>
+            <p>
+              Quelle: Erstellt&nbsp;mit dem
+              <span style="color: #0000ff;">
+                &nbsp;
+                <a
+                  style="color: #0000ff;"
+                  title="Datenschutz Generator Deutschland"
+                  href="https://www.adsimple.de/datenschutz-generator/"
+                  target="_blank"
+                  rel="follow noopener"
+                >Datenschutz Generator</a>
+              </span> von AdSimple&nbsp;in Kooperation mit justmed.de
+            </p>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <Footer />
+  </div>
+</template>
+
+<script>
+import Footer from "../../components/Footer";
+
+export default {
+  name: "PrivacyPolicy",
+  components: {
+    Footer,
+  },
+  mounted: () => {
+    window.scrollTo(0, 0);
+  },
+};
+</script>
+
+<style scoped>
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div {
+  color: #7a7a7a;
+}
+
+p {
+  font-size: 19px;
+}
+
+h1,
+h2 {
+  word-break: break-all;
+}
+
+.top-margin {
+  margin-top: 75px;
+}
+</style>

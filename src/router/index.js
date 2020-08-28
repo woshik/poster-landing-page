@@ -5,26 +5,38 @@ Vue.use(VueRouter);
 
 const routes = [
   {
+    path: '/de/impressum',
+    component: () => import('../views/de/Imprint.vue'),
+  },
+  {
+    path: '/en/impressum',
+    component: () => import('../views/en/Imprint.vue'),
+  },
+
+  {
+    path: '/de/agb',
+    component: () => import('../views/de/TermCondition.vue'),
+  },
+  {
+    path: '/en/agb',
+    component: () => import('../views/en/TermCondition.vue'),
+  },
+
+  {
+    path: '/de/datenschutzerklaerung',
+    component: () => import('../views/de/PrivacyPolicy.vue'),
+  },
+  {
+    path: '/en/datenschutzerklaerung',
+    component: () => import('../views/en/PrivacyPolicy.vue'),
+  },
+
+  {
     path: '/:lang',
     component: {
       render: (h) => h('router-view'),
     },
     children: [
-      {
-        path: 'impressum',
-        name: 'impressum',
-        component: () => import('../views/Imprint.vue'),
-      },
-      {
-        path: 'agb',
-        name: 'agb',
-        component: () => import('../views/TermCondition.vue'),
-      },
-      {
-        path: 'datenschutzerklaerung',
-        name: 'datenschutzerklaerung',
-        component: () => import('../views/PrivacyPolicy.vue'),
-      },
       {
         path: 'versand',
         name: 'versand',
